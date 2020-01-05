@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
+   crossorigin=""/>
+    <style>
+#mapid {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 100%;
+}
+    </style>
+</head>
+<body>
+
+<div id="mapid"></div>
+
+<script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+   integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+   crossorigin=""></script>
+<script>
+    function addMarker(lat, lon, name, osmId, osmType, data) {
+        var marker = L.marker([lat, lon]).addTo(stationMap);
+        var table = "<table border='0.25'>"
+        for (x in data) {
+          table += "<tr><td>" + x + "</td><td>" + data[x] + "</td></tr>";
+        }
+        table += "</table>"
+        marker.bindPopup("<b>" + name + "</b><br><a href=\"https://osm.org/" + osmType + "/" + osmId + "\">" + osmId + "</a><br>" + table);
+        return marker;
+    }
+    var osmTilesDe = L.tileLayer('http://{s}.tile.openstreetmap.de/{z}/{x}/{y}.png', {
+        attribution: '',
+        maxZoom: 18,
+    });
+    var osmTiles = L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '',
+        maxZoom: 18,
+    });
+    var stationMap = L.map('mapid', {
+        layers: [osmTilesDe, osmTiles]
+    });
+    var osmTileServer = {
+        "OSM": osmTiles,
+        "OSM De": osmTilesDe
+    }
+    L.control.layers(osmTileServer).addTo(stationMap);
+    var allMarkers = [];
+    
+    allMarkers.push(addMarker(49.6150126, 6.1659779, 'Cents-Hamm', '25609667', 'node', {"lat": "49.6150126", "lon": "6.1659779", "name": "Cents-Hamm", "osm_id": "25609667", "osm_type": "node", "uic_ref": "8270280"}));
+    allMarkers.push(addMarker(49.5080338, 6.050847, 'Noertzange', '25923526', 'node', {"lat": "49.5080338", "lon": "6.050847", "name": "Noertzange", "osm_id": "25923526", "osm_type": "node", "uic_ref": "8270800"}));
+    allMarkers.push(addMarker(49.9653607, 5.9531842, 'Paradiso', '246131086', 'node', {"lat": "49.9653607", "lon": "5.9531842", "name": "Paradiso", "osm_id": "246131086", "osm_type": "node", "uic_ref": "8271143"}));
+    allMarkers.push(addMarker(49.4857693, 6.0352682, 'Kayl', '269302083', 'node', {"lat": "49.4857693", "lon": "6.0352682", "name": "Kayl", "osm_id": "269302083", "osm_type": "node", "uic_ref": "8270640"}));
+    allMarkers.push(addMarker(50.0168584, 6.0072032, 'Drauffelt', '420756851', 'node', {"lat": "50.0168584", "lon": "6.0072032", "name": "Drauffelt", "osm_id": "420756851", "osm_type": "node", "uic_ref": "8270360"}));
+    allMarkers.push(addMarker(49.5510868, 5.8434629, 'Rodange', '704409331', 'node', {"lat": "49.5510868", "lon": "5.8434629", "name": "Rodange", "osm_id": "704409331", "osm_type": "node", "uic_ref": "8200940"}));
+    allMarkers.push(addMarker(49.4565582, 6.0790095, 'Volmerange-les-Mines', '718622771', 'node', {"lat": "49.4565582", "lon": "6.0790095", "name": "Volmerange-les-Mines", "osm_id": "718622771", "osm_type": "node", "uic_ref": ""}));
+    allMarkers.push(addMarker(49.5990906, 6.2117485, 'Sandweiler-Contern', '1411691251', 'node', {"lat": "49.5990906", "lon": "6.2117485", "name": "Sandweiler-Contern", "osm_id": "1411691251", "osm_type": "node", "uic_ref": "8270930"}));
+    allMarkers.push(addMarker(49.8648017, 6.1540133, 'Diekirch', '1573735853', 'node', {"lat": "49.8648017", "lon": "6.1540133", "name": "Diekirch", "osm_id": "1573735853", "osm_type": "node", "uic_ref": "8200126"}));
+    allMarkers.push(addMarker(49.5015555, 5.934747, 'Belval Lycée', '1676979795', 'node', {"lat": "49.5015555", "lon": "5.934747", "name": "Belval Lyc\u00e9e", "osm_id": "1676979795", "osm_type": "node", "uic_ref": "8270135"}));
+    allMarkers.push(addMarker(49.5584333, 5.9246001, 'Bascharage-Sanem', '2361763085', 'node', {"lat": "49.5584333", "lon": "5.9246001", "name": "Bascharage-Sanem", "osm_id": "2361763085", "osm_type": "node", "uic_ref": "8270060"}));
+    allMarkers.push(addMarker(49.6305492, 6.2685246, 'Munsbach', '2361763091', 'node', {"lat": "49.6305492", "lon": "6.2685246", "name": "Munsbach", "osm_id": "2361763091", "osm_type": "node", "uic_ref": "8270780"}));
+    allMarkers.push(addMarker(49.5369053, 5.8940808, 'Niederkorn', '2361763094', 'node', {"lat": "49.5369053", "lon": "5.8940808", "name": "Niederkorn", "osm_id": "2361763094", "osm_type": "node", "uic_ref": "8270790"}));
+    allMarkers.push(addMarker(49.5534157, 5.8608746, 'Lamadelaine', '3719706037', 'node', {"lat": "49.5534157", "lon": "5.8608746", "name": "Lamadelaine", "osm_id": "3719706037", "osm_type": "node", "uic_ref": "8200143"}));
+    allMarkers.push(addMarker(49.5062959, 6.0097748, 'Schifflange', '3719863646', 'node', {"lat": "49.5062959", "lon": "6.0097748", "name": "Schifflange", "osm_id": "3719863646", "osm_type": "node", "uic_ref": "8200630"}));
+    allMarkers.push(addMarker(49.700068, 6.3875875, 'Wecker', '3720303904', 'node', {"lat": "49.700068", "lon": "6.3875875", "name": "Wecker", "osm_id": "3720303904", "osm_type": "node", "uic_ref": "8271080"}));
+    allMarkers.push(addMarker(49.5725401, 5.995144, 'Dippach-Reckange', '3721698137', 'node', {"lat": "49.5725401", "lon": "5.995144", "name": "Dippach-Reckange", "osm_id": "3721698137", "osm_type": "node", "uic_ref": "8270340"}));
+    allMarkers.push(addMarker(49.5870299, 6.0590174, 'Leudelange', '3721698138', 'node', {"lat": "49.5870299", "lon": "6.0590174", "name": "Leudelange", "osm_id": "3721698138", "osm_type": "node", "uic_ref": "8270650"}));
+    allMarkers.push(addMarker(49.5543344, 5.8796536, 'Pétange', '3721698933', 'node', {"lat": "49.5543344", "lon": "5.8796536", "name": "P\u00e9tange", "osm_id": "3721698933", "osm_type": "node", "uic_ref": ""}));
+    allMarkers.push(addMarker(49.5735838, 5.9602532, 'Schouweiler', '3721698934', 'node', {"lat": "49.5735838", "lon": "5.9602532", "name": "Schouweiler", "osm_id": "3721698934", "osm_type": "node", "uic_ref": "8270960"}));
+    allMarkers.push(addMarker(49.4773951, 6.0349832, 'Tétange', '3724529698', 'node', {"lat": "49.4773951", "lon": "6.0349832", "name": "T\u00e9tange", "osm_id": "3724529698", "osm_type": "node", "uic_ref": ""}));
+    allMarkers.push(addMarker(49.6888823, 6.3486797, 'Betzdorf', '3725242150', 'node', {"lat": "49.6888823", "lon": "6.3486797", "name": "Betzdorf", "osm_id": "3725242150", "osm_type": "node", "uic_ref": "8270210"}));
+    allMarkers.push(addMarker(49.7064542, 6.4232973, 'Manternach', '3725242151', 'node', {"lat": "49.7064542", "lon": "6.4232973", "name": "Manternach", "osm_id": "3725242151", "osm_type": "node", "uic_ref": "8270690"}));
+    allMarkers.push(addMarker(49.7032225, 6.4793057, 'Mertert', '3725242152', 'node', {"lat": "49.7032225", "lon": "6.4793057", "name": "Mertert", "osm_id": "3725242152", "osm_type": "node", "uic_ref": "8270720"}));
+    allMarkers.push(addMarker(49.6665057, 6.3031061, 'Roodt', '3725244397', 'node', {"lat": "49.6665057", "lon": "6.3031061", "name": "Roodt", "osm_id": "3725244397", "osm_type": "node", "uic_ref": "8270890"}));
+    allMarkers.push(addMarker(49.6027297, 6.2580197, 'Oetrange', '3725816023', 'node', {"lat": "49.6027297", "lon": "6.2580197", "name": "Oetrange", "osm_id": "3725816023", "osm_type": "node", "uic_ref": "8270830"}));
+    allMarkers.push(addMarker(49.9663637, 5.9270829, 'Wiltz', '3727231072', 'node', {"lat": "49.9663637", "lon": "5.9270829", "name": "Wiltz", "osm_id": "3727231072", "osm_type": "node", "uic_ref": "8200142"}));
+    allMarkers.push(addMarker(49.52253, 5.8915895, 'Differdange', '3727342905', 'node', {"lat": "49.52253", "lon": "5.8915895", "name": "Differdange", "osm_id": "3727342905", "osm_type": "node", "uic_ref": "8200920"}));
+    allMarkers.push(addMarker(49.5030979, 5.9236701, 'Belval-Rédange', '3727608556', 'node', {"lat": "49.5030979", "lon": "5.9236701", "name": "Belval-R\u00e9dange", "osm_id": "3727608556", "osm_type": "node", "uic_ref": "8270130"}));
+    allMarkers.push(addMarker(50.1193506, 5.9910136, 'Troisvierges', '3727995454', 'node', {"lat": "50.1193506", "lon": "5.9910136", "name": "Troisvierges", "osm_id": "3727995454", "osm_type": "node", "uic_ref": "8200136"}));
+    allMarkers.push(addMarker(50.0944381, 6.0259328, 'Maulusmühle', '3727997606', 'node', {"lat": "50.0944381", "lon": "6.0259328", "name": "Maulusm\u00fchle", "osm_id": "3727997606", "osm_type": "node", "uic_ref": ""}));
+    allMarkers.push(addMarker(49.9883021, 6.0007319, 'Wilwerwiltz', '3727997833', 'node', {"lat": "49.9883021", "lon": "6.0007319", "name": "Wilwerwiltz", "osm_id": "3727997833", "osm_type": "node", "uic_ref": "8271120"}));
+    allMarkers.push(addMarker(49.8966506, 6.0922184, 'Michelau', '3728214590', 'node', {"lat": "49.8966506", "lon": "6.0922184", "name": "Michelau", "osm_id": "3728214590", "osm_type": "node", "uic_ref": "8270730"}));
+    allMarkers.push(addMarker(49.9210564, 6.0534791, 'Goebelsmühle', '3728214639', 'node', {"lat": "49.9210564", "lon": "6.0534791", "name": "Goebelsm\u00fchle", "osm_id": "3728214639", "osm_type": "node", "uic_ref": "8270480"}));
+    allMarkers.push(addMarker(49.948413, 6.0223546, 'Kautenbach', '3728214640', 'node', {"lat": "49.948413", "lon": "6.0223546", "name": "Kautenbach", "osm_id": "3728214640", "osm_type": "node", "uic_ref": "8270630"}));
+    allMarkers.push(addMarker(49.7129031, 6.4994052, 'Wasserbillig', '3728754132', 'node', {"lat": "49.7129031", "lon": "6.4994052", "name": "Wasserbillig", "osm_id": "3728754132", "osm_type": "node", "uic_ref": "8200340"}));
+    allMarkers.push(addMarker(49.5427666, 6.1338106, 'Berchem', '3730323383', 'node', {"lat": "49.5427666", "lon": "6.1338106", "name": "Berchem", "osm_id": "3730323383", "osm_type": "node", "uic_ref": "8270160"}));
+    allMarkers.push(addMarker(49.7961925, 6.1199998, 'Cruchten', '3730496689', 'node', {"lat": "49.7961925", "lon": "6.1199998", "name": "Cruchten", "osm_id": "3730496689", "osm_type": "node", "uic_ref": "8270320"}));
+    allMarkers.push(addMarker(49.675144, 6.1394643, 'Heisdorf', '3730496690', 'node', {"lat": "49.675144", "lon": "6.1394643", "name": "Heisdorf", "osm_id": "3730496690", "osm_type": "node", "uic_ref": "8200112"}));
+    allMarkers.push(addMarker(49.6983494, 6.1402969, 'Lorentzweiler', '3730496691', 'node', {"lat": "49.6983494", "lon": "6.1402969", "name": "Lorentzweiler", "osm_id": "3730496691", "osm_type": "node", "uic_ref": "8270670"}));
+    allMarkers.push(addMarker(49.829753, 6.095329, 'Schieren', '3730496870', 'node', {"lat": "49.829753", "lon": "6.095329", "name": "Schieren", "osm_id": "3730496870", "osm_type": "node", "uic_ref": "8270950"}));
+    allMarkers.push(addMarker(49.6619472, 6.1362958, 'Walferdange', '3730496871', 'node', {"lat": "49.6619472", "lon": "6.1362958", "name": "Walferdange", "osm_id": "3730496871", "osm_type": "node", "uic_ref": "8271060"}));
+    allMarkers.push(addMarker(49.8151001, 6.100953, 'Colmar-Berg', '3730497335', 'node', {"lat": "49.8151001", "lon": "6.100953", "name": "Colmar-Berg", "osm_id": "3730497335", "osm_type": "node", "uic_ref": "8270300"}));
+    allMarkers.push(addMarker(49.6337994, 6.1368137, 'Dommeldange', '3730497336', 'node', {"lat": "49.6337994", "lon": "6.1368137", "name": "Dommeldange", "osm_id": "3730497336", "osm_type": "node", "uic_ref": "8270350"}));
+    allMarkers.push(addMarker(49.7215823, 6.1228044, 'Lintgen', '3730497337', 'node', {"lat": "49.7215823", "lon": "6.1228044", "name": "Lintgen", "osm_id": "3730497337", "osm_type": "node", "uic_ref": "8270660"}));
+    allMarkers.push(addMarker(50.0615608, 6.0246738, 'Clervaux', '3730912911', 'node', {"lat": "50.0615608", "lon": "6.0246738", "name": "Clervaux", "osm_id": "3730912911", "osm_type": "node", "uic_ref": "8200134"}));
+    allMarkers.push(addMarker(49.9568324, 5.9815629, 'Merkholtz', '3730912912', 'node', {"lat": "49.9568324", "lon": "5.9815629", "name": "Merkholtz", "osm_id": "3730912912", "osm_type": "node", "uic_ref": "8270710"}));
+    allMarkers.push(addMarker(49.7518276, 6.1103941, 'Mersch', '3732003472', 'node', {"lat": "49.7518276", "lon": "6.1103941", "name": "Mersch", "osm_id": "3732003472", "osm_type": "node", "uic_ref": "8200110"}));
+    allMarkers.push(addMarker(49.499531, 5.9462903, 'Belval-Université', '3733227187', 'node', {"lat": "49.499531", "lon": "5.9462903", "name": "Belval-Universit\u00e9", "osm_id": "3733227187", "osm_type": "node", "uic_ref": "8270140"}));
+    allMarkers.push(addMarker(49.5151574, 5.9259002, 'Belvaux-Soleuvre', '3733227188', 'node', {"lat": "49.5151574", "lon": "5.9259002", "name": "Belvaux-Soleuvre", "osm_id": "3733227188", "osm_type": "node", "uic_ref": "8270150"}));
+    allMarkers.push(addMarker(49.4923869, 6.0861927, 'Burange', '3733314741', 'node', {"lat": "49.4923869", "lon": "6.0861927", "name": "Burange", "osm_id": "3733314741", "osm_type": "node", "uic_ref": "8200002"}));
+    allMarkers.push(addMarker(49.4834215, 6.0830309, 'Dudelange-Ville', '3733360829', 'node', {"lat": "49.4834215", "lon": "6.0830309", "name": "Dudelange-Ville", "osm_id": "3733360829", "osm_type": "node", "uic_ref": "8200613"}));
+    allMarkers.push(addMarker(49.4726946, 6.0793791, 'Dudelange-Usines', '3733361647', 'node', {"lat": "49.4726946", "lon": "6.0793791", "name": "Dudelange-Usines", "osm_id": "3733361647", "osm_type": "node", "uic_ref": "8270370"}));
+    allMarkers.push(addMarker(49.4786928, 6.0821383, 'Dudelange-Centre', '3733361648', 'node', {"lat": "49.4786928", "lon": "6.0821383", "name": "Dudelange-Centre", "osm_id": "3733361648", "osm_type": "node", "uic_ref": "8200003"}));
+    allMarkers.push(addMarker(49.6438044, 5.917139, 'Kleinbettingen', '3734399406', 'node', {"lat": "49.6438044", "lon": "5.917139", "name": "Kleinbettingen", "osm_id": "3734399406", "osm_type": "node", "uic_ref": "8200520"}));
+    allMarkers.push(addMarker(49.6183823, 6.0296967, 'Mamer Lycée', '3734422881', 'node', {"lat": "49.6183823", "lon": "6.0296967", "name": "Mamer Lyc\u00e9e", "osm_id": "3734422881", "osm_type": "node", "uic_ref": "8276932"}));
+    allMarkers.push(addMarker(49.6257131, 6.0201719, 'Mamer', '3734422882', 'node', {"lat": "49.6257131", "lon": "6.0201719", "name": "Mamer", "osm_id": "3734422882", "osm_type": "node", "uic_ref": "8270680"}));
+    allMarkers.push(addMarker(49.6385071, 5.9823816, 'Capellen', '3734423238', 'node', {"lat": "49.6385071", "lon": "5.9823816", "name": "Capellen", "osm_id": "3734423238", "osm_type": "node", "uic_ref": "8270270"}));
+    allMarkers.push(addMarker(49.6129205, 6.0604258, 'Bertrange-Strassen', '3734674986', 'node', {"lat": "49.6129205", "lon": "6.0604258", "name": "Bertrange-Strassen", "osm_id": "3734674986", "osm_type": "node", "uic_ref": "8270180"}));
+    allMarkers.push(addMarker(49.5956369, 6.1200199, 'Hollerich', '3736255004', 'node', {"lat": "49.5956369", "lon": "6.1200199", "name": "Hollerich", "osm_id": "3736255004", "osm_type": "node", "uic_ref": "8270580"}));
+    allMarkers.push(addMarker(49.5107334, 5.8909346, 'Oberkorn', '3737370912', 'node', {"lat": "49.5107334", "lon": "5.8909346", "name": "Oberkorn", "osm_id": "3737370912", "osm_type": "node", "uic_ref": "8270820"}));
+    allMarkers.push(addMarker(49.5999681, 6.1342493, 'Luxembourg Gare Centrale', '3964570119', 'node', {"lat": "49.5999681", "lon": "6.1342493", "name": "Luxembourg Gare Centrale", "osm_id": "3964570119", "osm_type": "node", "uic_ref": "8200100"}));
+    allMarkers.push(addMarker(49.8473403, 6.1065209, 'Ettelbruck', '5072163539', 'node', {"lat": "49.8473403", "lon": "6.1065209", "name": "Ettelbruck", "osm_id": "5072163539", "osm_type": "node", "uic_ref": "8200120"}));
+    allMarkers.push(addMarker(49.4603105, 6.032671, 'Rumelange', '5107379363', 'node', {"lat": "49.4603105", "lon": "6.032671", "name": "Rumelange", "osm_id": "5107379363", "osm_type": "node", "uic_ref": "8270910"}));
+    allMarkers.push(addMarker(49.5806013, 6.1321121, 'Howald', '5248211590', 'node', {"lat": "49.5806013", "lon": "6.1321121", "name": "Howald", "osm_id": "5248211590", "osm_type": "node", "uic_ref": ""}));
+    allMarkers.push(addMarker(49.9654034, 5.953124, 'Paradiso', '5833068677', 'node', {"lat": "49.9654034", "lon": "5.953124", "name": "Paradiso", "osm_id": "5833068677", "osm_type": "node", "uic_ref": ""}));
+    allMarkers.push(addMarker(49.483378637397706, 6.083180481610089, 'Dudelange-Ville', '39250659', 'relation', {"lat": "49.483378637397706", "lon": "6.083180481610089", "name": "Dudelange-Ville", "osm_id": "39250659", "osm_type": "relation", "uic_ref": ""}));
+    allMarkers.push(addMarker(49.516517324653606, 6.1016819922195, 'Bettembourg', '131669275', 'relation', {"lat": "49.516517324653606", "lon": "6.1016819922195", "name": "Bettembourg", "osm_id": "131669275", "osm_type": "relation", "uic_ref": "8200603"}));
+    allMarkers.push(addMarker(49.493934073432676, 5.985091816328906, 'Esch-sur-Alzettte', '557580603', 'relation', {"lat": "49.493934073432676", "lon": "5.985091816328906", "name": "Esch-sur-Alzettte", "osm_id": "557580603", "osm_type": "relation", "uic_ref": "8200640"}));
+    var group = new L.featureGroup(allMarkers);
+
+    stationMap.fitBounds(group.getBounds());
+</script>
+</body>
+</html>

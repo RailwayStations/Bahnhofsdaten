@@ -1,0 +1,554 @@
+[
+    {
+        "name": "Cents-Hamm",
+        "lat": "49.6150126",
+        "lon": "6.1659779",
+        "uic_ref": "8270280",
+        "osm_id": "25609667",
+        "osm_type": "node"
+    },
+    {
+        "name": "Noertzange",
+        "lat": "49.5080338",
+        "lon": "6.050847",
+        "uic_ref": "8270800",
+        "osm_id": "25923526",
+        "osm_type": "node"
+    },
+    {
+        "name": "Paradiso",
+        "lat": "49.9653607",
+        "lon": "5.9531842",
+        "uic_ref": "8271143",
+        "osm_id": "246131086",
+        "osm_type": "node"
+    },
+    {
+        "name": "Kayl",
+        "lat": "49.4857693",
+        "lon": "6.0352682",
+        "uic_ref": "8270640",
+        "osm_id": "269302083",
+        "osm_type": "node"
+    },
+    {
+        "name": "Drauffelt",
+        "lat": "50.0168584",
+        "lon": "6.0072032",
+        "uic_ref": "8270360",
+        "osm_id": "420756851",
+        "osm_type": "node"
+    },
+    {
+        "name": "Rodange",
+        "lat": "49.5510868",
+        "lon": "5.8434629",
+        "uic_ref": "8200940",
+        "osm_id": "704409331",
+        "osm_type": "node"
+    },
+    {
+        "name": "Volmerange-les-Mines",
+        "lat": "49.4565582",
+        "lon": "6.0790095",
+        "uic_ref": "",
+        "osm_id": "718622771",
+        "osm_type": "node"
+    },
+    {
+        "name": "Sandweiler-Contern",
+        "lat": "49.5990906",
+        "lon": "6.2117485",
+        "uic_ref": "8270930",
+        "osm_id": "1411691251",
+        "osm_type": "node"
+    },
+    {
+        "name": "Diekirch",
+        "lat": "49.8648017",
+        "lon": "6.1540133",
+        "uic_ref": "8200126",
+        "osm_id": "1573735853",
+        "osm_type": "node"
+    },
+    {
+        "name": "Belval Lycée",
+        "lat": "49.5015555",
+        "lon": "5.934747",
+        "uic_ref": "8270135",
+        "osm_id": "1676979795",
+        "osm_type": "node"
+    },
+    {
+        "name": "Bascharage-Sanem",
+        "lat": "49.5584333",
+        "lon": "5.9246001",
+        "uic_ref": "8270060",
+        "osm_id": "2361763085",
+        "osm_type": "node"
+    },
+    {
+        "name": "Munsbach",
+        "lat": "49.6305492",
+        "lon": "6.2685246",
+        "uic_ref": "8270780",
+        "osm_id": "2361763091",
+        "osm_type": "node"
+    },
+    {
+        "name": "Niederkorn",
+        "lat": "49.5369053",
+        "lon": "5.8940808",
+        "uic_ref": "8270790",
+        "osm_id": "2361763094",
+        "osm_type": "node"
+    },
+    {
+        "name": "Lamadelaine",
+        "lat": "49.5534157",
+        "lon": "5.8608746",
+        "uic_ref": "8200143",
+        "osm_id": "3719706037",
+        "osm_type": "node"
+    },
+    {
+        "name": "Schifflange",
+        "lat": "49.5062959",
+        "lon": "6.0097748",
+        "uic_ref": "8200630",
+        "osm_id": "3719863646",
+        "osm_type": "node"
+    },
+    {
+        "name": "Wecker",
+        "lat": "49.700068",
+        "lon": "6.3875875",
+        "uic_ref": "8271080",
+        "osm_id": "3720303904",
+        "osm_type": "node"
+    },
+    {
+        "name": "Dippach-Reckange",
+        "lat": "49.5725401",
+        "lon": "5.995144",
+        "uic_ref": "8270340",
+        "osm_id": "3721698137",
+        "osm_type": "node"
+    },
+    {
+        "name": "Leudelange",
+        "lat": "49.5870299",
+        "lon": "6.0590174",
+        "uic_ref": "8270650",
+        "osm_id": "3721698138",
+        "osm_type": "node"
+    },
+    {
+        "name": "Pétange",
+        "lat": "49.5543344",
+        "lon": "5.8796536",
+        "uic_ref": "",
+        "osm_id": "3721698933",
+        "osm_type": "node"
+    },
+    {
+        "name": "Schouweiler",
+        "lat": "49.5735838",
+        "lon": "5.9602532",
+        "uic_ref": "8270960",
+        "osm_id": "3721698934",
+        "osm_type": "node"
+    },
+    {
+        "name": "Tétange",
+        "lat": "49.4773951",
+        "lon": "6.0349832",
+        "uic_ref": "",
+        "osm_id": "3724529698",
+        "osm_type": "node"
+    },
+    {
+        "name": "Betzdorf",
+        "lat": "49.6888823",
+        "lon": "6.3486797",
+        "uic_ref": "8270210",
+        "osm_id": "3725242150",
+        "osm_type": "node"
+    },
+    {
+        "name": "Manternach",
+        "lat": "49.7064542",
+        "lon": "6.4232973",
+        "uic_ref": "8270690",
+        "osm_id": "3725242151",
+        "osm_type": "node"
+    },
+    {
+        "name": "Mertert",
+        "lat": "49.7032225",
+        "lon": "6.4793057",
+        "uic_ref": "8270720",
+        "osm_id": "3725242152",
+        "osm_type": "node"
+    },
+    {
+        "name": "Roodt",
+        "lat": "49.6665057",
+        "lon": "6.3031061",
+        "uic_ref": "8270890",
+        "osm_id": "3725244397",
+        "osm_type": "node"
+    },
+    {
+        "name": "Oetrange",
+        "lat": "49.6027297",
+        "lon": "6.2580197",
+        "uic_ref": "8270830",
+        "osm_id": "3725816023",
+        "osm_type": "node"
+    },
+    {
+        "name": "Wiltz",
+        "lat": "49.9663637",
+        "lon": "5.9270829",
+        "uic_ref": "8200142",
+        "osm_id": "3727231072",
+        "osm_type": "node"
+    },
+    {
+        "name": "Differdange",
+        "lat": "49.52253",
+        "lon": "5.8915895",
+        "uic_ref": "8200920",
+        "osm_id": "3727342905",
+        "osm_type": "node"
+    },
+    {
+        "name": "Belval-Rédange",
+        "lat": "49.5030979",
+        "lon": "5.9236701",
+        "uic_ref": "8270130",
+        "osm_id": "3727608556",
+        "osm_type": "node"
+    },
+    {
+        "name": "Troisvierges",
+        "lat": "50.1193506",
+        "lon": "5.9910136",
+        "uic_ref": "8200136",
+        "osm_id": "3727995454",
+        "osm_type": "node"
+    },
+    {
+        "name": "Maulusmühle",
+        "lat": "50.0944381",
+        "lon": "6.0259328",
+        "uic_ref": "",
+        "osm_id": "3727997606",
+        "osm_type": "node"
+    },
+    {
+        "name": "Wilwerwiltz",
+        "lat": "49.9883021",
+        "lon": "6.0007319",
+        "uic_ref": "8271120",
+        "osm_id": "3727997833",
+        "osm_type": "node"
+    },
+    {
+        "name": "Michelau",
+        "lat": "49.8966506",
+        "lon": "6.0922184",
+        "uic_ref": "8270730",
+        "osm_id": "3728214590",
+        "osm_type": "node"
+    },
+    {
+        "name": "Goebelsmühle",
+        "lat": "49.9210564",
+        "lon": "6.0534791",
+        "uic_ref": "8270480",
+        "osm_id": "3728214639",
+        "osm_type": "node"
+    },
+    {
+        "name": "Kautenbach",
+        "lat": "49.948413",
+        "lon": "6.0223546",
+        "uic_ref": "8270630",
+        "osm_id": "3728214640",
+        "osm_type": "node"
+    },
+    {
+        "name": "Wasserbillig",
+        "lat": "49.7129031",
+        "lon": "6.4994052",
+        "uic_ref": "8200340",
+        "osm_id": "3728754132",
+        "osm_type": "node"
+    },
+    {
+        "name": "Berchem",
+        "lat": "49.5427666",
+        "lon": "6.1338106",
+        "uic_ref": "8270160",
+        "osm_id": "3730323383",
+        "osm_type": "node"
+    },
+    {
+        "name": "Cruchten",
+        "lat": "49.7961925",
+        "lon": "6.1199998",
+        "uic_ref": "8270320",
+        "osm_id": "3730496689",
+        "osm_type": "node"
+    },
+    {
+        "name": "Heisdorf",
+        "lat": "49.675144",
+        "lon": "6.1394643",
+        "uic_ref": "8200112",
+        "osm_id": "3730496690",
+        "osm_type": "node"
+    },
+    {
+        "name": "Lorentzweiler",
+        "lat": "49.6983494",
+        "lon": "6.1402969",
+        "uic_ref": "8270670",
+        "osm_id": "3730496691",
+        "osm_type": "node"
+    },
+    {
+        "name": "Schieren",
+        "lat": "49.829753",
+        "lon": "6.095329",
+        "uic_ref": "8270950",
+        "osm_id": "3730496870",
+        "osm_type": "node"
+    },
+    {
+        "name": "Walferdange",
+        "lat": "49.6619472",
+        "lon": "6.1362958",
+        "uic_ref": "8271060",
+        "osm_id": "3730496871",
+        "osm_type": "node"
+    },
+    {
+        "name": "Colmar-Berg",
+        "lat": "49.8151001",
+        "lon": "6.100953",
+        "uic_ref": "8270300",
+        "osm_id": "3730497335",
+        "osm_type": "node"
+    },
+    {
+        "name": "Dommeldange",
+        "lat": "49.6337994",
+        "lon": "6.1368137",
+        "uic_ref": "8270350",
+        "osm_id": "3730497336",
+        "osm_type": "node"
+    },
+    {
+        "name": "Lintgen",
+        "lat": "49.7215823",
+        "lon": "6.1228044",
+        "uic_ref": "8270660",
+        "osm_id": "3730497337",
+        "osm_type": "node"
+    },
+    {
+        "name": "Clervaux",
+        "lat": "50.0615608",
+        "lon": "6.0246738",
+        "uic_ref": "8200134",
+        "osm_id": "3730912911",
+        "osm_type": "node"
+    },
+    {
+        "name": "Merkholtz",
+        "lat": "49.9568324",
+        "lon": "5.9815629",
+        "uic_ref": "8270710",
+        "osm_id": "3730912912",
+        "osm_type": "node"
+    },
+    {
+        "name": "Mersch",
+        "lat": "49.7518276",
+        "lon": "6.1103941",
+        "uic_ref": "8200110",
+        "osm_id": "3732003472",
+        "osm_type": "node"
+    },
+    {
+        "name": "Belval-Université",
+        "lat": "49.499531",
+        "lon": "5.9462903",
+        "uic_ref": "8270140",
+        "osm_id": "3733227187",
+        "osm_type": "node"
+    },
+    {
+        "name": "Belvaux-Soleuvre",
+        "lat": "49.5151574",
+        "lon": "5.9259002",
+        "uic_ref": "8270150",
+        "osm_id": "3733227188",
+        "osm_type": "node"
+    },
+    {
+        "name": "Burange",
+        "lat": "49.4923869",
+        "lon": "6.0861927",
+        "uic_ref": "8200002",
+        "osm_id": "3733314741",
+        "osm_type": "node"
+    },
+    {
+        "name": "Dudelange-Ville",
+        "lat": "49.4834215",
+        "lon": "6.0830309",
+        "uic_ref": "8200613",
+        "osm_id": "3733360829",
+        "osm_type": "node"
+    },
+    {
+        "name": "Dudelange-Usines",
+        "lat": "49.4726946",
+        "lon": "6.0793791",
+        "uic_ref": "8270370",
+        "osm_id": "3733361647",
+        "osm_type": "node"
+    },
+    {
+        "name": "Dudelange-Centre",
+        "lat": "49.4786928",
+        "lon": "6.0821383",
+        "uic_ref": "8200003",
+        "osm_id": "3733361648",
+        "osm_type": "node"
+    },
+    {
+        "name": "Kleinbettingen",
+        "lat": "49.6438044",
+        "lon": "5.917139",
+        "uic_ref": "8200520",
+        "osm_id": "3734399406",
+        "osm_type": "node"
+    },
+    {
+        "name": "Mamer Lycée",
+        "lat": "49.6183823",
+        "lon": "6.0296967",
+        "uic_ref": "8276932",
+        "osm_id": "3734422881",
+        "osm_type": "node"
+    },
+    {
+        "name": "Mamer",
+        "lat": "49.6257131",
+        "lon": "6.0201719",
+        "uic_ref": "8270680",
+        "osm_id": "3734422882",
+        "osm_type": "node"
+    },
+    {
+        "name": "Capellen",
+        "lat": "49.6385071",
+        "lon": "5.9823816",
+        "uic_ref": "8270270",
+        "osm_id": "3734423238",
+        "osm_type": "node"
+    },
+    {
+        "name": "Bertrange-Strassen",
+        "lat": "49.6129205",
+        "lon": "6.0604258",
+        "uic_ref": "8270180",
+        "osm_id": "3734674986",
+        "osm_type": "node"
+    },
+    {
+        "name": "Hollerich",
+        "lat": "49.5956369",
+        "lon": "6.1200199",
+        "uic_ref": "8270580",
+        "osm_id": "3736255004",
+        "osm_type": "node"
+    },
+    {
+        "name": "Oberkorn",
+        "lat": "49.5107334",
+        "lon": "5.8909346",
+        "uic_ref": "8270820",
+        "osm_id": "3737370912",
+        "osm_type": "node"
+    },
+    {
+        "name": "Luxembourg Gare Centrale",
+        "lat": "49.5999681",
+        "lon": "6.1342493",
+        "uic_ref": "8200100",
+        "osm_id": "3964570119",
+        "osm_type": "node"
+    },
+    {
+        "name": "Ettelbruck",
+        "lat": "49.8473403",
+        "lon": "6.1065209",
+        "uic_ref": "8200120",
+        "osm_id": "5072163539",
+        "osm_type": "node"
+    },
+    {
+        "name": "Rumelange",
+        "lat": "49.4603105",
+        "lon": "6.032671",
+        "uic_ref": "8270910",
+        "osm_id": "5107379363",
+        "osm_type": "node"
+    },
+    {
+        "name": "Howald",
+        "lat": "49.5806013",
+        "lon": "6.1321121",
+        "uic_ref": "",
+        "osm_id": "5248211590",
+        "osm_type": "node"
+    },
+    {
+        "name": "Paradiso",
+        "lat": "49.9654034",
+        "lon": "5.953124",
+        "uic_ref": "",
+        "osm_id": "5833068677",
+        "osm_type": "node"
+    },
+    {
+        "name": "Dudelange-Ville",
+        "lat": "49.483378637397706",
+        "lon": "6.083180481610089",
+        "uic_ref": "",
+        "osm_id": "39250659",
+        "osm_type": "relation"
+    },
+    {
+        "name": "Bettembourg",
+        "lat": "49.516517324653606",
+        "lon": "6.1016819922195",
+        "uic_ref": "8200603",
+        "osm_id": "131669275",
+        "osm_type": "relation"
+    },
+    {
+        "name": "Esch-sur-Alzettte",
+        "lat": "49.493934073432676",
+        "lon": "5.985091816328906",
+        "uic_ref": "8200640",
+        "osm_id": "557580603",
+        "osm_type": "relation"
+    }
+]
