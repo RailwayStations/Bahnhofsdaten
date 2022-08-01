@@ -1,0 +1,4 @@
+stationId;stop_id;stop_code;stop_name;stop_desc;stop_lat;stop_lon;zone_id;plc_url;location_type;parent_station
+1512;place_PITT;;Pittsburg / Bay Point;;38.01891;-121.944236;;https://www.bart.gov/stations/pitt;1;
+1513;place_PCTR;;Pittsburg Center;;38.016847;-121.889062;;https://www.bart.gov/stations/pctr;1;
+1514;place_ANTC;;Antioch;;37.995373;-121.780346;;https://www.bart.gov/stations/antc;1;
