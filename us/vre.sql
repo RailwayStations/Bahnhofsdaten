@@ -1,0 +1,11 @@
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1467', 'Franconia/Springfield', 38.76598745, -77.16843973);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1468', 'Crystal City', 38.85917739, -77.04856734);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1469', 'Lorton', 38.71503877, -77.2145552);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1470', 'Leeland Road', 38.3470108, -77.43708375);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1471', 'Rolling Road', 38.79459921, -77.25856586);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1472', 'Rippon', 38.61405377, -77.25461233);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1473', 'Brooke', 38.38653276, -77.38257878);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1474', 'Manassas Park', 38.76481358, -77.44062289);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1475', 'L''Enfant', 38.88599804, -77.02233734);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1476', 'Broad Run/Airport', 38.72709234, -77.52829616);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1477', 'Backlick Road', 38.79694891, -77.18403698);
