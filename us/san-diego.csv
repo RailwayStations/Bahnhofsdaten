@@ -1,20 +1,20 @@
-stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_code,location_type,parent_station,wheelchair_boarding,intersection_code,stop_place,reference_place,stop_name_short
-27000,Oceanside Transit Center,33.190875,-117.37835,,27000,0,,1,,SPROTC,octc,Oceanside TC
-27001,Coast Highway,33.181788,-117.368851,,27001,0,,0,,SPRCHS,,Coast Hwy Sta
-27002,Crouch,33.194612,-117.353514,,27002,0,,0,,SPRCSS,,Crouch Sta
-27003,El Camino Real,33.199656,-117.332478,,27003,0,,0,,SPRECR,ecrsta,El Cmo Real Sta
-27004,Rancho Del Oro,33.201544,-117.311231,,27004,0,,0,,SPRRDO,rdosta,Rcho Del Oro Sta
-27005,College Boulevard,33.204546,-117.288143,,27005,0,,0,,SPRCBS,osdorE,CollStation
-27006,Melrose Drive,33.219553,-117.259087,,27006,0,,0,,SPRMRS,,Melrose Sta
-27007,Vista Transit Center,33.202788,-117.244731,,27007,0,,0,,SPRVTC,visttc,Vista TC
-27008,Civic Center - Vista,33.190535,-117.237476,,27008,0,,0,,SPREAS,,Civic Ctr - Vista Sta
-27009,Buena Creek,33.1735,-117.207393,,27009,0,,0,,SPRBCS,,Buena Creek Sta
-27010,Palomar College,33.146953,-117.185314,,27010,0,,0,,SPRPCC,palctc,Palomar Coll Sta
-27011,San Marcos Civic Center,33.142267,-117.161995,,27011,0,,0,,SPRCCS,,San Marcos Civic Ctr Sta
-27012,Cal State San Marcos,33.134771,-117.153585,,27012,0,,0,,SPRCSU,csusta,Calate San Marcos Sta
-27013,Nordahl Road,33.131112,-117.124154,,27013,0,,0,,SPRNRS,,Nordahl Sta
-27014,Escondido Transit Center,33.118419,-117.09216,,27014,0,,0,,SPRETC,esctc,Escondido TC
-28001,Carlsbad Village,33.161787,-117.351867,C1,28001,0,,0,,CSTCVS,cvsta,Clsbd Vlge Sta
-28002,Carlsbad Poinsettia,33.109794,-117.319613,C1,28002,0,,0,,CSTCPS,cpsta,Clsbd Poinsettia Sta
-28003,Encinitas,33.047927,-117.293357,C1,28003,0,,0,,CSTENC,encsta,Encinitas Sta
-28005,Sorrento Valley,32.903369,-117.225677,C2,28005,0,,0,,CSTSVS,,Sorrento Vly Sta
+stationId;stop_id;stop_name;stop_lat;stop_lon;zone_id;stop_code;location_type;parent_station;wheelchair_boarding;intersection_code;stop_place;reference_place;stop_name_short
+1558;27000;Oceanside Transit Center;33.190875;-117.37835;;27000;0;;1;;SPROTC;octc;Oceanside TC
+1559;27001;Coast Highway;33.181788;-117.368851;;27001;0;;0;;SPRCHS;;Coast Hwy Sta
+1560;27002;Crouch;33.194612;-117.353514;;27002;0;;0;;SPRCSS;;Crouch Sta
+1561;27003;El Camino Real;33.199656;-117.332478;;27003;0;;0;;SPRECR;ecrsta;El Cmo Real Sta
+1562;27004;Rancho Del Oro;33.201544;-117.311231;;27004;0;;0;;SPRRDO;rdosta;Rcho Del Oro Sta
+1563;27005;College Boulevard;33.204546;-117.288143;;27005;0;;0;;SPRCBS;osdorE;CollStation
+1564;27006;Melrose Drive;33.219553;-117.259087;;27006;0;;0;;SPRMRS;;Melrose Sta
+1565;27007;Vista Transit Center;33.202788;-117.244731;;27007;0;;0;;SPRVTC;visttc;Vista TC
+1566;27008;Civic Center - Vista;33.190535;-117.237476;;27008;0;;0;;SPREAS;;Civic Ctr - Vista Sta
+1567;27009;Buena Creek;33.1735;-117.207393;;27009;0;;0;;SPRBCS;;Buena Creek Sta
+1568;27010;Palomar College;33.146953;-117.185314;;27010;0;;0;;SPRPCC;palctc;Palomar Coll Sta
+1569;27011;San Marcos Civic Center;33.142267;-117.161995;;27011;0;;0;;SPRCCS;;San Marcos Civic Ctr Sta
+1570;27012;Cal State San Marcos;33.134771;-117.153585;;27012;0;;0;;SPRCSU;csusta;Calate San Marcos Sta
+1571;27013;Nordahl Road;33.131112;-117.124154;;27013;0;;0;;SPRNRS;;Nordahl Sta
+1572;27014;Escondido Transit Center;33.118419;-117.09216;;27014;0;;0;;SPRETC;esctc;Escondido TC
+1573;28001;Carlsbad Village;33.161787;-117.351867;C1;28001;0;;0;;CSTCVS;cvsta;Clsbd Vlge Sta
+1574;28002;Carlsbad Poinsettia;33.109794;-117.319613;C1;28002;0;;0;;CSTCPS;cpsta;Clsbd Poinsettia Sta
+1575;28003;Encinitas;33.047927;-117.293357;C1;28003;0;;0;;CSTENC;encsta;Encinitas Sta
+1576;28005;Sorrento Valley;32.903369;-117.225677;C2;28005;0;;0;;CSTSVS;;Sorrento Vly Sta

@@ -1,30 +1,30 @@
-stop_id,stop_code,platform_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,position,direction,wheelchair_boarding,tts_stop_name
-22nd_street,22nd_street,,22nd Street,,37.756972,-122.392492,,,1,,America/Los_Angeles,,,0,
-bayshore,bayshore,,Bayshore,,37.70766,-122.401665,,,1,,America/Los_Angeles,,,0,
-belmont,belmont,,Belmont,,37.52133,-122.2763,,,1,,America/Los_Angeles,,,0,
-blossom_hill,blossom_hill,,Blossom Hill,,37.252606,-121.797907,,,1,,America/Los_Angeles,,,0,
-broadway,broadway,,Broadway,,37.58726,-122.362,,,1,,America/Los_Angeles,,,0,
-burlingame,burlingame,,Burlingame,,37.57985,-122.34418,,,1,,America/Los_Angeles,,,0,
-california_ave,california_ave,,California Avenue,,37.428834,-122.14113,,,1,,America/Los_Angeles,,,0,
-capitol,capitol,,Capitol,,37.284016,-121.841899,,,1,,America/Los_Angeles,,,0,
-college_park,college_park,,College Park,,37.34289,-121.91565,,,1,,America/Los_Angeles,,,0,
-gilroy,gilroy,,Gilroy,,37.004466,-121.566727,,,1,,America/Los_Angeles,,,0,
-hayward_park,hayward_park,,Hayward Park,,37.553161,-122.309494,,,1,,America/Los_Angeles,,,0,
-hillsdale,hillsdale,,Hillsdale,,37.54239268,-122.3016121,,,1,,America/Los_Angeles,,,0,
-lawrence,lawrence,,Lawrence,,37.3707,-121.9969,,,1,,America/Los_Angeles,,,0,
-menlo_park,menlo_park,,Menlo Park,,37.4548,-122.18245,,,1,,America/Los_Angeles,,,0,
-morgan_hill,morgan_hill,,Morgan Hill,,37.129644,-121.650558,,,1,,America/Los_Angeles,,,0,
-mountain_view,mountain_view,,Mountain View,,37.395067,-122.07722,,,1,,America/Los_Angeles,,,0,
-palo_alto,palo_alto,,Palo Alto,,37.44322,-122.16429,,,1,,America/Los_Angeles,,,0,
-place_MLBR,place_MLBR,,Millbrae,,37.5999,-122.38675,,,1,,America/Los_Angeles,,,0,
-redwood_city,redwood_city,,Redwood City,,37.485865,-122.2315,,,1,,America/Los_Angeles,,,0,
-san_antonio,san_antonio,,San Antonio,,37.40723943,-122.1071156,,,1,,America/Los_Angeles,,,0,
-san_bruno,san_bruno,,San Bruno,,37.63046034,-122.411709,,,1,,America/Los_Angeles,,,0,
-san_carlos,san_carlos,,San Carlos,,37.508033,-122.2602,,,1,,America/Los_Angeles,,,0,
-san_francisco,san_francisco,,San Francisco,,37.776404,-122.394911,,,1,,America/Los_Angeles,,,0,
-san_martin,san_martin,,San Martin,,37.085984,-121.61048,,,1,,America/Los_Angeles,,,0,
-san_mateo,san_mateo,,San Mateo,,37.56824,-122.3239,,,1,,America/Los_Angeles,,,0,
-south_sf,south_sf,,South San Francisco,,37.65594142,-122.404979,,,1,,America/Los_Angeles,,,0,
-stanford,stanford,,Stanford,,37.43895,-122.15715,,,1,,America/Los_Angeles,,,0,
-sunnyvale,sunnyvale,,Sunnyvale,,37.378934,-122.0315,,,1,,America/Los_Angeles,,,0,
-tamien,tamien,,Tamien,,37.31269,-121.8847,,,1,,America/Los_Angeles,,,0,
+stationId;stop_id;stop_code;platform_code;stop_name;stop_desc;stop_lat;stop_lon;zone_id;stop_url;location_type;parent_station;stop_timezone;position;direction;wheelchair_boarding;tts_stop_name
+1483;22nd_street;22nd_street;;22nd Street;;37.756972;-122.392492;;;1;;America/Los_Angeles;;;0;
+1484;bayshore;bayshore;;Bayshore;;37.70766;-122.401665;;;1;;America/Los_Angeles;;;0;
+1485;belmont;belmont;;Belmont;;37.52133;-122.2763;;;1;;America/Los_Angeles;;;0;
+1486;blossom_hill;blossom_hill;;Blossom Hill;;37.252606;-121.797907;;;1;;America/Los_Angeles;;;0;
+1487;broadway;broadway;;Broadway;;37.58726;-122.362;;;1;;America/Los_Angeles;;;0;
+1488;burlingame;burlingame;;Burlingame;;37.57985;-122.34418;;;1;;America/Los_Angeles;;;0;
+1489;california_ave;california_ave;;California Avenue;;37.428834;-122.14113;;;1;;America/Los_Angeles;;;0;
+1490;capitol;capitol;;Capitol;;37.284016;-121.841899;;;1;;America/Los_Angeles;;;0;
+1491;college_park;college_park;;College Park;;37.34289;-121.91565;;;1;;America/Los_Angeles;;;0;
+1492;gilroy;gilroy;;Gilroy;;37.004466;-121.566727;;;1;;America/Los_Angeles;;;0;
+1493;hayward_park;hayward_park;;Hayward Park;;37.553161;-122.309494;;;1;;America/Los_Angeles;;;0;
+1494;hillsdale;hillsdale;;Hillsdale;;37.54239268;-122.3016121;;;1;;America/Los_Angeles;;;0;
+1495;lawrence;lawrence;;Lawrence;;37.3707;-121.9969;;;1;;America/Los_Angeles;;;0;
+1496;menlo_park;menlo_park;;Menlo Park;;37.4548;-122.18245;;;1;;America/Los_Angeles;;;0;
+1497;morgan_hill;morgan_hill;;Morgan Hill;;37.129644;-121.650558;;;1;;America/Los_Angeles;;;0;
+1498;mountain_view;mountain_view;;Mountain View;;37.395067;-122.07722;;;1;;America/Los_Angeles;;;0;
+1499;palo_alto;palo_alto;;Palo Alto;;37.44322;-122.16429;;;1;;America/Los_Angeles;;;0;
+1500;place_MLBR;place_MLBR;;Millbrae;;37.5999;-122.38675;;;1;;America/Los_Angeles;;;0;
+1501;redwood_city;redwood_city;;Redwood City;;37.485865;-122.2315;;;1;;America/Los_Angeles;;;0;
+1502;san_antonio;san_antonio;;San Antonio;;37.40723943;-122.1071156;;;1;;America/Los_Angeles;;;0;
+1503;san_bruno;san_bruno;;San Bruno;;37.63046034;-122.411709;;;1;;America/Los_Angeles;;;0;
+1504;san_carlos;san_carlos;;San Carlos;;37.508033;-122.2602;;;1;;America/Los_Angeles;;;0;
+1505;san_francisco;san_francisco;;San Francisco;;37.776404;-122.394911;;;1;;America/Los_Angeles;;;0;
+1506;san_martin;san_martin;;San Martin;;37.085984;-121.61048;;;1;;America/Los_Angeles;;;0;
+1507;san_mateo;san_mateo;;San Mateo;;37.56824;-122.3239;;;1;;America/Los_Angeles;;;0;
+1508;south_sf;south_sf;;South San Francisco;;37.65594142;-122.404979;;;1;;America/Los_Angeles;;;0;
+1509;stanford;stanford;;Stanford;;37.43895;-122.15715;;;1;;America/Los_Angeles;;;0;
+1510;sunnyvale;sunnyvale;;Sunnyvale;;37.378934;-122.0315;;;1;;America/Los_Angeles;;;0;
+1511;tamien;tamien;;Tamien;;37.31269;-121.8847;;;1;;America/Los_Angeles;;;0;
