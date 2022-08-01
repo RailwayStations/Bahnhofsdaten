@@ -1,0 +1,44 @@
+stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_url,to_from,schedules,stop_alias
+171,Anaheim Canyon,33.854176,-117.840523,171,https://www.metrolinktrains.com/rider-info/general-info/stations/anaheim-canyon/,BOTH,1,Anaheim Canyon
+101,Baldwin Park,34.086426,-117.957397,101,https://www.metrolinktrains.com/rider-info/general-info/stations/baldwin-park/,BOTH,1,Baldwin Park
+130,Buena Park,33.875969,-117.986855,130,https://www.metrolinktrains.com/rider-info/general-info/stations/buena-park/,BOTH,1,Buena Park
+102,Downtown Burbank,34.178944,-118.312866,102,https://www.metrolinktrains.com/rider-info/general-info/stations/burbank---downtown/,BOTH,1,Burbank - Downtown
+186,Burbank Airport - North,34.206389,-118.35,186,https://www.metrolinktrains.com/rider-info/general-info/stations/BurbankAirportNorth/,BOTH,1,Burbank Airport - North (AV Line)
+115,Cal State LA,34.062119,-118.171646,115,https://www.metrolinktrains.com/rider-info/general-info/stations/cal-state-la/,BOTH,1,Cal State LA
+114,Claremont,34.093884,-117.716354,114,https://www.metrolinktrains.com/rider-info/general-info/stations/claremont/,BOTH,1,Claremont
+135,Commerce,33.990734,-118.143776,135,https://www.metrolinktrains.com/rider-info/general-info/stations/commerce/,BOTH,1,Commerce
+147,North Main Corona,33.882195,-117.563454,147,https://www.metrolinktrains.com/rider-info/general-info/stations/corona---north-main/,BOTH,1,Corona - North Main
+173,West Corona,33.885761,-117.613586,173,https://www.metrolinktrains.com/rider-info/general-info/stations/corona---west/,BOTH,1,Corona - West
+104,Covina,34.09214,-117.888893,104,https://www.metrolinktrains.com/rider-info/general-info/stations/covina/,BOTH,1,Covina
+105,El Monte,34.076805,-118.0355,105,https://www.metrolinktrains.com/rider-info/general-info/stations/el-monte/,BOTH,1,El Monte
+116,Fontana,34.095165,-117.438095,116,https://www.metrolinktrains.com/rider-info/general-info/stations/fontana/,BOTH,1,Fontana
+127,Industry,34.007927,-117.845581,127,https://www.metrolinktrains.com/rider-info/general-info/stations/industry/,BOTH,1,Industry
+119,Jurupa Valley/Pedley,33.978119,-117.476273,119,https://www.metrolinktrains.com/rider-info/general-info/stations/jurupa-valleypedley/,BOTH,1,Jurupa Valley / Pedley
+141,Laguna Niguel/ Mission Viejo,33.553902,-117.675003,141,https://www.metrolinktrains.com/rider-info/general-info/stations/laguna-niguelmission-viejo/,BOTH,1,Laguna Niguel / Mission Viejo
+162,Lancaster,34.696579,-118.136131,162,https://www.metrolinktrains.com/rider-info/general-info/stations/lancaster/,BOTH,1,Lancaster
+118,Montclair,34.094086,-117.69558,118,https://www.metrolinktrains.com/rider-info/general-info/stations/montclair/,BOTH,1,Montclair
+126,Montebello/ Commerce,34.006962,-118.12561,126,https://www.metrolinktrains.com/rider-info/general-info/stations/montebellocommerce/,BOTH,1,Montebello / Commerce
+182,Moreno Valley/March Field,33.911469,-117.289215,182,https://www.metrolinktrains.com/rider-info/general-info/stations/moreno-valleymarch-field/,BOTH,1,Moreno Valley / March Field
+175,Newhall,34.379913,-118.527306,175,https://www.metrolinktrains.com/rider-info/general-info/stations/newhall/,BOTH,1,Newhall
+167,Northridge,34.230614,-118.545097,167,https://www.metrolinktrains.com/rider-info/general-info/stations/northridge/,BOTH,1,Northridge
+143,Norwalk/ Santa Fe Springs,33.916203,-118.060165,143,https://www.metrolinktrains.com/rider-info/general-info/stations/norwalksanta-fe-springs/,BOTH,1,Norwalk / Santa Fe Springs
+117,East Ontario,34.039909,-117.579521,117,https://www.metrolinktrains.com/rider-info/general-info/stations/ontario---east/,BOTH,1,Ontario - East
+145,Orange,33.78878,-117.8573,145,https://www.metrolinktrains.com/rider-info/general-info/stations/orange/,BOTH,1,Orange
+163,Palmdale,34.590771,-118.119293,163,https://www.metrolinktrains.com/rider-info/general-info/stations/palmdale/,BOTH,1,Palmdale
+183,Perris Downtown,33.785282,-117.229836,183,https://www.metrolinktrains.com/rider-info/general-info/stations/perris---downtown/,BOTH,1,Perris - Downtown
+184,South Perris,33.763752,-117.205711,184,https://www.metrolinktrains.com/rider-info/general-info/stations/perris---south/,BOTH,1,Perris - South
+109,Pomona (North),34.093639,-117.753052,109,https://www.metrolinktrains.com/rider-info/general-info/stations/pomona---north/,BOTH,1,Pomona - North
+121,Rancho Cucamonga,34.091854,-117.559937,121,https://www.metrolinktrains.com/rider-info/general-info/stations/rancho-cucamonga/,BOTH,1,Rancho Cucamonga
+122,Rialto,34.096786,-117.371887,122,https://www.metrolinktrains.com/rider-info/general-info/stations/rialto/,BOTH,1,Rialto
+181,Riverside-Hunter Park/UCR,33.997517,-117.335518,181,https://www.metrolinktrains.com/rider-info/general-info/stations/riverside---hunter-parkucr/,BOTH,1,Riverside - Hunter Park / UCR
+148,Riverside-La Sierra,33.899925,-117.4702,148,https://www.metrolinktrains.com/rider-info/general-info/stations/riverside---la-sierra/,BOTH,1,Riverside - La Sierra
+185,San Bernardino - Downtown,34.0995034,-117.2960167,185,https://www.metrolinktrains.com/rider-info/general-info/stations/san-bernardino-downtown/,BOTH,1,San Bernardino - Downtown
+152,San Clemente,33.432076,-117.632736,152,https://www.metrolinktrains.com/rider-info/general-info/stations/san-clemente/,BOTH,1,San Clemente
+111,Santa Clarita,34.413437,-118.524818,111,https://www.metrolinktrains.com/rider-info/general-info/stations/santa-clarita/,BOTH,1,Santa Clarita
+129,Sun Valley,34.222401,-118.373398,129,https://www.metrolinktrains.com/rider-info/general-info/stations/sun-valley/,BOTH,1,Sun Valley
+110,Sylmar/San Fernando,34.292591,-118.450172,110,https://www.metrolinktrains.com/rider-info/general-info/stations/sylmarsan-fernando/,BOTH,1,Sylmar / San Fernando
+156,Tustin,33.707966,-117.806015,156,https://www.metrolinktrains.com/rider-info/general-info/stations/tustin/,BOTH,1,Tustin
+125,Upland,34.094501,-117.647507,125,https://www.metrolinktrains.com/rider-info/general-info/stations/upland/,BOTH,1,Upland
+169,East Ventura,34.250793,-119.205025,169,https://www.metrolinktrains.com/rider-info/general-info/stations/ventura---east/,BOTH,1,Ventura - East
+164,Via Princessa,34.408817,-118.469406,164,https://www.metrolinktrains.com/rider-info/general-info/stations/via-princessa/,BOTH,1,Via Princessa
+165,Vincent Grade/Acton,34.49786,-118.118301,165,https://www.metrolinktrains.com/rider-info/general-info/stations/vincent-gradeacton/,BOTH,1,Vincent Grade / Acton

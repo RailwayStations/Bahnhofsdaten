@@ -1,0 +1,6 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon,zone_id,stop_desc,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding,platform_code
+3400002,3400002,Lathrop/Manteca,37.797908,-121.263664,66548,,,,,,,
+3400004.2,3400004.2,Livermore,37.685105,-121.767495,66551,,,,,,,
+3400004.3,3400004.3,Pleasanton,37.657549,-121.882962,66551,,,,,,,
+3400003,3400003,Tracy,37.696468,-121.433869,66550,,,,,,,
+3400004.1,3400004.1,Vasco Road,37.697081,-121.717648,66551,,,,,,,
