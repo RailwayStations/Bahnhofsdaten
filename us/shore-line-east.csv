@@ -1,0 +1,6 @@
+stationId;stop_id;stop_name;stop_lat;stop_lon;zone_id;stop_url
+1610;BRN;Branford;41.27462758;-72.81724602;2;http://www.shorelineeast.com/service_info/stations/branford.php
+1611;GUIL;Guilford;41.27581892;-72.67364323;3;http://www.shorelineeast.com/service_info/stations/guilford.php
+1612;MAD;Madison;41.28366796;-72.59953916;4;http://www.shorelineeast.com/service_info/stations/madison.php
+1613;CLIN;Clinton;41.27948555;-72.52829969;5;http://www.shorelineeast.com/service_info/stations/clinton.php
+1614;WES;Westbrook;41.28876307;-72.44840205;6;http://www.shorelineeast.com/service_info/stations/westbrook.php
