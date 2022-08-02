@@ -1,8 +1,8 @@
-stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,stop_url,location_type,wheelchair_boarding,platform_code
-53342,53342,Target Field,Nearside W,44.983385,-93.276823,https://www.metrotransit.org/nextrip/53342,0,1,
-53343,53343,Fridley,Nearside N,45.078921,-93.270856,https://www.metrotransit.org/nextrip/53343,0,1,
-53344,53344,Coon Rapids Riverdale,Nearside N,45.190833,-93.351232,https://www.metrotransit.org/nextrip/53344,0,1,
-53345,53345,Anoka,Nearside W,45.207781,-93.384071,https://www.metrotransit.org/nextrip/53345,0,1,
-53346,53346,Elk River,Nearside W,45.282621,-93.542206,https://www.metrotransit.org/nextrip/53346,0,1,
-53347,53347,Big Lake,Nearside W,45.329832,-93.730028,https://www.metrotransit.org/nextrip/53347,0,1,
-56097,56097,Ramsey,Nearside W,45.231795,-93.461286,https://www.metrotransit.org/nextrip/56097,0,1,
+stationId;stop_id;stop_code;stop_name;stop_desc;stop_lat;stop_lon;stop_url;location_type;wheelchair_boarding;platform_code
+1644;53342;53342;Target Field;Nearside W;44.983385;-93.276823;https://www.metrotransit.org/nextrip/53342;0;1;
+1645;53343;53343;Fridley;Nearside N;45.078921;-93.270856;https://www.metrotransit.org/nextrip/53343;0;1;
+1646;53344;53344;Coon Rapids Riverdale;Nearside N;45.190833;-93.351232;https://www.metrotransit.org/nextrip/53344;0;1;
+1647;53345;53345;Anoka;Nearside W;45.207781;-93.384071;https://www.metrotransit.org/nextrip/53345;0;1;
+1648;53346;53346;Elk River;Nearside W;45.282621;-93.542206;https://www.metrotransit.org/nextrip/53346;0;1;
+1649;53347;53347;Big Lake;Nearside W;45.329832;-93.730028;https://www.metrotransit.org/nextrip/53347;0;1;
+1650;56097;56097;Ramsey;Nearside W;45.231795;-93.461286;https://www.metrotransit.org/nextrip/56097;0;1;
