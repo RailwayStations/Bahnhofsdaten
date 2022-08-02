@@ -1,9 +1,9 @@
-stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
-28,28,Fort Worth T&P Station,,32.745327,-97.328451,,,,,,0
-12,,North Side,,32.795827,-97.337619,,,1,,,0
-11,,Mercantile Center,,32.819463,-97.293636,,,1,,,0
-4153,4153,North Richland Hills/Iron Horse,,32.844651,-97.248921,,,,,,0
-4154,4154,North Richland Hills/Smithfield,,32.865039,-97.211384,,,,,,0
-4155,4155,Grapevine-Main Street,,32.933202,-97.077264,,,,,,0
-4156,4156,DFW Airport North,,32.933399,-97.054133,,,,,,0
-4158,4158,DFW Airport Terminal B,,32.906253,-97.041287,,,,,,0
+stationId;stop_id;stop_code;stop_name;stop_desc;stop_lat;stop_lon;zone_id;stop_url;location_type;parent_station;stop_timezone;wheelchair_boarding
+1699;28;28;Fort Worth T&P Station;;32.745327;-97.328451;;;;;;0
+1700;12;;North Side;;32.795827;-97.337619;;;1;;;0
+1701;11;;Mercantile Center;;32.819463;-97.293636;;;1;;;0
+1702;4153;4153;North Richland Hills/Iron Horse;;32.844651;-97.248921;;;;;;0
+1703;4154;4154;North Richland Hills/Smithfield;;32.865039;-97.211384;;;;;;0
+1704;4155;4155;Grapevine-Main Street;;32.933202;-97.077264;;;;;;0
+1705;4156;4156;DFW Airport North;;32.933399;-97.054133;;;;;;0
+1706;4158;4158;DFW Airport Terminal B;;32.906253;-97.041287;;;;;;0
