@@ -1,0 +1,6 @@
+stop_id,stop_code,stop_name,tts_stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,direction,position
+13066,13066,Beaverton Transit Center,beaverton transit-center wes station,Bidirectional stop in Beaverton (Stop ID 13066),45.49064,-122.801157,R,https://trimet.org/home/stop/13066,0,,,At
+13067,13067,Hall/Nimbus,"hall, nimbus wes station",Bidirectional stop in Beaverton (Stop ID 13067),45.457587,-122.786997,R,https://trimet.org/home/stop/13067,0,,,At
+13068,13068,Tigard Transit Center,tigard transit-center wes station,Southbound stop in Tigard (Stop ID 13068),45.429936,-122.769527,R,https://trimet.org/home/stop/13068,0,landmark-2563,South,At
+13069,13069,Tualatin,tuall atin wes station,Bidirectional stop in Tualatin (Stop ID 13069),45.383621,-122.764504,R,https://trimet.org/home/stop/13069,0,,,At
+13070,13070,Wilsonville Transit Center,wilsonville wes station,Bidirectional stop in Wilsonville (Stop ID 13070),45.311358,-122.775303,R,https://trimet.org/home/stop/13070,0,,,At
