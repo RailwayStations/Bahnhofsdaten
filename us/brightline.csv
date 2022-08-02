@@ -1,4 +1,4 @@
-stop_id,stop_code,stop_name,stop_lat,stop_lon
-7,"FBT","Fort Lauderdale",26.1236190796,-80.1455459595
-1,"EKW","MiamiCentral",25.7799682617,-80.195640564
-3,"WPT","West Palm Beach",26.712015152,-80.0553588867
+stationId;stop_id;stop_code;stop_name;stop_lat;stop_lon
+1615;7;FBT;Fort Lauderdale;26.1236190796;-80.1455459595
+1616;1;EKW;MiamiCentral;25.7799682617;-80.195640564
+1617;3;WPT;West Palm Beach;26.712015152;-80.0553588867
