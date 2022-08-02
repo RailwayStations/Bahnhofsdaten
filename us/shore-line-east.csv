@@ -1,0 +1,6 @@
+stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_url
+BRN,Branford,41.27462758,-72.81724602,2,http://www.shorelineeast.com/service_info/stations/branford.php
+GUIL,Guilford,41.27581892,-72.67364323,3,http://www.shorelineeast.com/service_info/stations/guilford.php
+MAD,Madison,41.28366796,-72.59953916,4,http://www.shorelineeast.com/service_info/stations/madison.php
+CLIN,Clinton,41.27948555,-72.52829969,5,http://www.shorelineeast.com/service_info/stations/clinton.php
+WES,Westbrook,41.28876307,-72.44840205,6,http://www.shorelineeast.com/service_info/stations/westbrook.php
