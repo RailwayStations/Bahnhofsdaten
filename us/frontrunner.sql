@@ -1,0 +1,12 @@
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1707', 'Murray Central', 40.659758, -111.896432);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1708', 'Draper', 40.515484, -111.904407);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1709', 'South Jordan', 40.563155, -111.900753);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1710', 'North Temple', 40.772532, -111.905124);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1711', 'Clearfield', 41.094769, -112.013807);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1712', 'Layton', 41.056903, -111.964955);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1713', 'Farmington', 40.987266, -111.903667);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1714', 'Woods Cross', 40.880457, -111.903151);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1715', 'Roy', 41.188757, -112.039378);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1716', 'Lehi', 40.425196, -111.896354);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1717', 'American Fork', 40.374774, -111.820649);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1718', 'Orem Central', 40.28014, -111.725489);

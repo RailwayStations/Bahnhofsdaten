@@ -1,13 +1,13 @@
-stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
-23080,FR198021,Murray Central,127 W Vine Street & Vine Street,40.659758,-111.896432,,,,,,1
-23081,FR198022,Draper,12968 S 365 W,40.515484,-111.904407,,,,,,1
-23082,FR198023,South Jordan,10351 S Jordan Gateway,40.563155,-111.900753,,,,,,1
-23113,FR198030,North Temple,125 N 500 WEST & 500 WEST,40.772532,-111.905124,,,,,,1
-21757,FR301081,Clearfield,1250 S State St & Main St,41.094769,-112.013807,,,,,,1
-21772,FR301082,Layton,150 S Main Ave & 150 South,41.056903,-111.964955,,,,,,1
-21758,FR301084,Farmington,700 N Park Lane & 150 South,40.987266,-111.903667,,,,,,1
-21759,FR301085,Woods Cross,770 S 800 W & Main St,40.880457,-111.903151,,,,,,1
-21760,FR601085,Roy,4155 S Sandridge Dr & Wall Ave,41.188757,-112.039378,,,,,,1
-23074,FR801159,Lehi,3101 N Ashton Blvd & Ashton Blvd,40.425196,-111.896354,,,,,,1
-23071,FR801160,American Fork,728 W 200 South & 200 South,40.374774,-111.820649,,,,,,1
-23076,FR801163,Orem Central,900 S 1350 W & 1350 W,40.28014,-111.725489,,,,,,1
+stationId;stop_id;stop_code;stop_name;stop_desc;stop_lat;stop_lon;zone_id;stop_url;location_type;parent_station;stop_timezone;wheelchair_boarding
+1707;23080;FR198021;Murray Central;127 W Vine Street & Vine Street;40.659758;-111.896432;;;;;;1
+1708;23081;FR198022;Draper;12968 S 365 W;40.515484;-111.904407;;;;;;1
+1709;23082;FR198023;South Jordan;10351 S Jordan Gateway;40.563155;-111.900753;;;;;;1
+1710;23113;FR198030;North Temple;125 N 500 WEST & 500 WEST;40.772532;-111.905124;;;;;;1
+1711;21757;FR301081;Clearfield;1250 S State St & Main St;41.094769;-112.013807;;;;;;1
+1712;21772;FR301082;Layton;150 S Main Ave & 150 South;41.056903;-111.964955;;;;;;1
+1713;21758;FR301084;Farmington;700 N Park Lane & 150 South;40.987266;-111.903667;;;;;;1
+1714;21759;FR301085;Woods Cross;770 S 800 W & Main St;40.880457;-111.903151;;;;;;1
+1715;21760;FR601085;Roy;4155 S Sandridge Dr & Wall Ave;41.188757;-112.039378;;;;;;1
+1716;23074;FR801159;Lehi;3101 N Ashton Blvd & Ashton Blvd;40.425196;-111.896354;;;;;;1
+1717;23071;FR801160;American Fork;728 W 200 South & 200 South;40.374774;-111.820649;;;;;;1
+1718;23076;FR801163;Orem Central;900 S 1350 W & 1350 W;40.28014;-111.725489;;;;;;1
