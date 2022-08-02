@@ -1,0 +1,14 @@
+stop_id,stop_name,stop_lat,stop_lon,zone_id,stop_url,wheelchair_boarding
+2,Sanford,28.813476,-81.298115,2,http://sunrail.com/station/sanford/,1
+3,Lake Mary,28.758665,-81.318301,2,http://sunrail.com/station/lake-mary/,1
+4,Altamonte Springs,28.663827,-81.356613,2,http://sunrail.com/station/altamonte-springs/,1
+6,AdventHealth,28.573272,-81.371393,3,http://sunrail.com/station/adventhealth/,1
+7,LYNX Central,28.548551,-81.380865,3,http://sunrail.com/station/lynx-central/,1
+9,Sand Lake Road,28.453154,-81.366985,3,http://sunrail.com/station/sand-lake-road/,1
+14,Church Street,28.538901,-81.38077,3,http://sunrail.com/station/church-street-station/,1
+15,Longwood,28.701299,-81.345378,2,http://sunrail.com/station/longwood/,1
+16,Maitland,28.634943,-81.362163,3,http://sunrail.com/station/maitland/,1
+17,DeBary,28.855694,-81.323413,1,http://sunrail.com/station/debary/,1
+21,Meadow Woods,28.386511,-81.374059,3,http://sunrail.com/station/meadow-woods/,1
+22,Tupperware,28.343098,-81.390023,4,http://sunrail.com/station/tupperware/,1
+24,Poinciana,28.258907,-81.484367,4,http://sunrail.com/station/poinciana/,1
