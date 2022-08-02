@@ -1,0 +1,10 @@
+stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding,corner_placement,stop_position,on_street,at_street,heading
+5534,5534,Austin-Downtown,000400 4th & Red River,30.264843,-97.738448,,https://www.capmetro.org/stopdetail/index.php?stop=5534,0,,,0,NE,M,4th,Red River,106
+5535,5535,Austin-Plaza Saltillo,000000 5Th & Comal,30.262242,-97.727578,,https://www.capmetro.org/stopdetail/index.php?stop=5535,0,,,0,SW,M,5Th,Comal,109
+5536,5536,Austin-MLK Jr.,000000 Martin Luther King & Clifford,30.279818,-97.709031,,https://www.capmetro.org/stopdetail/index.php?stop=5536,0,6430,,0,SW,M,Martin Luther King,Clifford,20
+5537,5537,Austin-Highland,000000 Airport & Denson,30.328601,-97.716203,,https://www.capmetro.org/stopdetail/index.php?stop=5537,0,,,0,NW,M,Airport,Denson,187
+5538,5538,Austin-Crestview,000000 Airport & Justin,30.338448,-97.719656,,https://www.capmetro.org/stopdetail/index.php?stop=5538,0,,,0,NW,M,Airport,Justin,289
+5539,5539,Austin-Kramer,000000 Burnet & Kramer,30.392786,-97.7164,,https://www.capmetro.org/stopdetail/index.php?stop=5539,0,,,0,NE,M,Burnet,Kramer,16
+5540,5540,Austin-Howard,000000 Howard & Mopac,30.43999,-97.701734,,https://www.capmetro.org/stopdetail/index.php?stop=5540,0,6402,,0,NW,M,Howard,Mopac,114
+5541,5541,Austin-Lakeline,000000 Lyndhurst & Lakeline,30.48103,-97.786543,,https://www.capmetro.org/stopdetail/index.php?stop=5541,0,6401,,0,SE,M,Lyndhurst,Lakeline,312
+5542,5542,Leander,000000 US 183 & Metro,30.586401,-97.855735,,https://www.capmetro.org/stopdetail/index.php?stop=5542,0,6399,,0,SE,M,US 183,Metro,330
