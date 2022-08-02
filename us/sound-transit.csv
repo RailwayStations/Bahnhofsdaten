@@ -1,8 +1,8 @@
-stop_id,stop_name,stop_lat,stop_lon,stop_code,stop_desc,zone_id,stop_url,location_type,parent_station,stop_timezone
-SN03,Mukilteo,47.94837,-122.301052,SN03,Mukilteo Station - SR525 and 1st Street,S_MU,https://www.soundtransit.org/ride-with-us/stops-stations/mukilteo-station,1,,America/Los_Angeles
-SS03,Kent,47.384154,-122.233033,SS03,Kent Station - 301 Railroad Avenue North,S_KE,https://www.soundtransit.org/ride-with-us/stops-stations/kent-station,1,,America/Los_Angeles
-SS04,Auburn,47.306411,-122.232257,SS04,Auburn Station - 23 A Street SW,S_AU,https://www.soundtransit.org/ride-with-us/stops-stations/auburn-station,1,,America/Los_Angeles
-SS05,Sumner,47.201287,-122.244813,SS05,Sumner Station - 810 Maple Street,S_SU,https://www.soundtransit.org/ride-with-us/stops-stations/sumner-station,1,,America/Los_Angeles
-SS06,Puyallup,47.192717,-122.295675,SS06,Puyallup Station - 131 West Main Street,S_PU,https://www.soundtransit.org/ride-with-us/stops-stations/puyallup-station,1,,America/Los_Angeles
-SS08,South Tacoma,47.203491,-122.485552,SS08,South Tacoma Station - S 58th St & Hood St,S_ST,https://www.soundtransit.org/ride-with-us/stops-stations/south-tacoma-station,1,,America/Los_Angeles
-SS09,Lakewood,47.153189,-122.499103,SS09,Lakewood Station - Pacific Hwy SW & 114th St SW,S_LW,https://www.soundtransit.org/ride-with-us/stops-stations/lakewood-station,1,,America/Los_Angeles
+stationId;stop_id;stop_name;stop_lat;stop_lon;stop_code;stop_desc;zone_id;stop_url;location_type;parent_station;stop_timezone
+1719;SN03;Mukilteo;47.94837;-122.301052;SN03;Mukilteo Station - SR525 and 1st Street;S_MU;https://www.soundtransit.org/ride-with-us/stops-stations/mukilteo-station;1;;America/Los_Angeles
+1720;SS03;Kent;47.384154;-122.233033;SS03;Kent Station - 301 Railroad Avenue North;S_KE;https://www.soundtransit.org/ride-with-us/stops-stations/kent-station;1;;America/Los_Angeles
+1721;SS04;Auburn;47.306411;-122.232257;SS04;Auburn Station - 23 A Street SW;S_AU;https://www.soundtransit.org/ride-with-us/stops-stations/auburn-station;1;;America/Los_Angeles
+1722;SS05;Sumner;47.201287;-122.244813;SS05;Sumner Station - 810 Maple Street;S_SU;https://www.soundtransit.org/ride-with-us/stops-stations/sumner-station;1;;America/Los_Angeles
+1723;SS06;Puyallup;47.192717;-122.295675;SS06;Puyallup Station - 131 West Main Street;S_PU;https://www.soundtransit.org/ride-with-us/stops-stations/puyallup-station;1;;America/Los_Angeles
+1724;SS08;South Tacoma;47.203491;-122.485552;SS08;South Tacoma Station - S 58th St & Hood St;S_ST;https://www.soundtransit.org/ride-with-us/stops-stations/south-tacoma-station;1;;America/Los_Angeles
+1725;SS09;Lakewood;47.153189;-122.499103;SS09;Lakewood Station - Pacific Hwy SW & 114th St SW;S_LW;https://www.soundtransit.org/ride-with-us/stops-stations/lakewood-station;1;;America/Los_Angeles
