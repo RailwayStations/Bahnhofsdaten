@@ -1,0 +1,13 @@
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1618', 'Sanford', 28.813476, -81.298115);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1619', 'Lake Mary', 28.758665, -81.318301);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1620', 'Altamonte Springs', 28.663827, -81.356613);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1621', 'AdventHealth', 28.573272, -81.371393);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1622', 'LYNX Central', 28.548551, -81.380865);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1623', 'Sand Lake Road', 28.453154, -81.366985);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1624', 'Church Street', 28.538901, -81.38077);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1625', 'Longwood', 28.701299, -81.345378);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1626', 'Maitland', 28.634943, -81.362163);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1627', 'DeBary', 28.855694, -81.323413);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1628', 'Meadow Woods', 28.386511, -81.374059);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1629', 'Tupperware', 28.343098, -81.390023);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1630', 'Poinciana', 28.258907, -81.484367);
