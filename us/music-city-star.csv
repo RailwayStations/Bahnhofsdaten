@@ -1,0 +1,8 @@
+stationId;stop_id;stop_code;stop_name;stop_desc;stop_lat;stop_lon;zone_id;stop_url;location_type;parent_station;stop_timezone;wheelchair_boarding
+1670;MCSDONEL;MCSDONEL;Donelson;NASHVILLE & EASTERN RR;36.167003;-86.666539;;;;;;0
+1671;MCSHAM;MCSHAM;Hamilton Springs;;36.234559;-86.367777;;;;;;0
+1672;MCSHERM;MCSHERM;Hermitage;;36.190234;-86.605609;;;;;;0
+1673;MCSLB;MCSLB;Lebanon;;36.212085;-86.29724;;;;;;
+1674;MCSMJ;MCSMJ;Mt. Juliet;;36.199384;-86.517;;;;;;0
+1675;MCSMS;MCSMS;Martha;;36.228922;-86.425777;;;;;;0
+1676;MCSRVRF;MCSRVRF;Riverfront;;36.161803;-86.773763;;;;;;
