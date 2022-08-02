@@ -1,15 +1,15 @@
-﻿stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
-belen,,Belen,,34.663307,-106.766229,lunas_belen,https://www.riometro.org/164/Belen,,,,1
-dtwn_bernalillo,,Downtown Bernalillo,,35.303623,-106.546982,sandobenalillo,https://www.riometro.org/170/Bernalillo-County,,,,1
-bernalillo_co,,Bernalillo County,,35.03028,-106.657221,abq,https://www.riometro.org/188/Downtown-Bernalillo,,,,1
-isleta,,Isleta Pueblo,,34.946614,-106.673209,abq,https://www.riometro.org/191/Isleta-Pueblo,,,,1
-kewa,,Kewa,,35.511127,-106.321884,kewa,https://www.riometro.org/194/Kewa,,,,1
-lunas,,Los Lunas,,34.799497,-106.736875,lunas_belen,https://www.riometro.org/197/Los-Lunas,,,,1
-losranchos,,Los Ranchos/Journal Center,,35.17625,-106.617059,abq,https://www.riometro.org/200/Los-Ranchos-Journal-Center,,,,1
-montano,,Montaño,,35.136892,-106.632324,abq,https://www.riometro.org/203/Montao,,,,1
-sandia,,Sandia Pueblo,,35.210535,-106.597519,abq,https://www.riometro.org/206/Sandia-Pueblo,,,,1
-sandoval,,Sandoval County/U.S. 550,,35.315857,-106.538716,sandobenalillo,https://www.riometro.org/209/Sandoval-County-US-550,0,sandoval_stn,,1
-sf_co599,,Santa Fe County/N.M. 599,,35.591696,-106.060687,nm599,https://www.riometro.org/212/Santa-Fe-County-NM-599,,,,1
-sf,,Santa Fe,,35.684669,-105.946625,santafe,https://www.riometro.org/215/Santa-Fe-Depot,,,,1
-socap,,South Capitol,,35.672813,-105.957405,santafe,https://www.riometro.org/218/South-Capitol,,,,1
-zia_station,,Zia Road,,35.646412,-105.95701,santafe,https://www.riometro.org/221/Zia-Road,,,,1
+stationId;stop_id;stop_code;stop_name;stop_desc;stop_lat;stop_lon;zone_id;stop_url;location_type;parent_station;stop_timezone;wheelchair_boarding
+1651;belen;;Belen;;34.663307;-106.766229;lunas_belen;https://www.riometro.org/164/Belen;;;;1
+1652;dtwn_bernalillo;;Downtown Bernalillo;;35.303623;-106.546982;sandobenalillo;https://www.riometro.org/170/Bernalillo-County;;;;1
+1653;bernalillo_co;;Bernalillo County;;35.03028;-106.657221;abq;https://www.riometro.org/188/Downtown-Bernalillo;;;;1
+1654;isleta;;Isleta Pueblo;;34.946614;-106.673209;abq;https://www.riometro.org/191/Isleta-Pueblo;;;;1
+1655;kewa;;Kewa;;35.511127;-106.321884;kewa;https://www.riometro.org/194/Kewa;;;;1
+1656;lunas;;Los Lunas;;34.799497;-106.736875;lunas_belen;https://www.riometro.org/197/Los-Lunas;;;;1
+1657;losranchos;;Los Ranchos/Journal Center;;35.17625;-106.617059;abq;https://www.riometro.org/200/Los-Ranchos-Journal-Center;;;;1
+1658;montano;;Montaño;;35.136892;-106.632324;abq;https://www.riometro.org/203/Montao;;;;1
+1659;sandia;;Sandia Pueblo;;35.210535;-106.597519;abq;https://www.riometro.org/206/Sandia-Pueblo;;;;1
+1660;sandoval;;Sandoval County/U.S. 550;;35.315857;-106.538716;sandobenalillo;https://www.riometro.org/209/Sandoval-County-US-550;0;sandoval_stn;;1
+1661;sf_co599;;Santa Fe County/N.M. 599;;35.591696;-106.060687;nm599;https://www.riometro.org/212/Santa-Fe-County-NM-599;;;;1
+1662;sf;;Santa Fe;;35.684669;-105.946625;santafe;https://www.riometro.org/215/Santa-Fe-Depot;;;;1
+1663;socap;;South Capitol;;35.672813;-105.957405;santafe;https://www.riometro.org/218/South-Capitol;;;;1
+1664;zia_station;;Zia Road;;35.646412;-105.95701;santafe;https://www.riometro.org/221/Zia-Road;;;;1
