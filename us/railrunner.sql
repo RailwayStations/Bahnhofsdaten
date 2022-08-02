@@ -1,0 +1,14 @@
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1651', 'Belen', 34.663307, -106.766229);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1652', 'Downtown Bernalillo', 35.303623, -106.546982);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1653', 'Bernalillo County', 35.03028, -106.657221);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1654', 'Isleta Pueblo', 34.946614, -106.673209);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1655', 'Kewa', 35.511127, -106.321884);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1656', 'Los Lunas', 34.799497, -106.736875);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1657', 'Los Ranchos/Journal Center', 35.17625, -106.617059);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1658', 'Montaño', 35.136892, -106.632324);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1659', 'Sandia Pueblo', 35.210535, -106.597519);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1660', 'Sandoval County/U.S. 550', 35.315857, -106.538716);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1661', 'Santa Fe County/N.M. 599', 35.591696, -106.060687);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1662', 'Santa Fe', 35.684669, -105.946625);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1663', 'South Capitol', 35.672813, -105.957405);
+insert into stations (countryCode, id, title, lat, lon) values ('us', '1664', 'Zia Road', 35.646412, -105.95701);
