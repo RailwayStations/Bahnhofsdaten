@@ -9,7 +9,6 @@ insert into stations (countryCode, id, title, lat, lon) values ('us', '1596', 'A
 insert into stations (countryCode, id, title, lat, lon) values ('us', '1597', 'Central Park', 39.769723, -104.892912);
 insert into stations (countryCode, id, title, lat, lon) values ('us', '1598', 'Clear Creek / Federal', 39.804819, -105.022624);
 insert into stations (countryCode, id, title, lat, lon) values ('us', '1599', 'Commerce City / 72nd Avenue', 39.826497, -104.942292);
-insert into stations (countryCode, id, title, lat, lon) values ('us', '1600', 'Denver Airport', 39.847913, -104.673943);
 insert into stations (countryCode, id, title, lat, lon) values ('us', '1601', 'Eastlake /124th Avenue', 39.922525, -104.962657);
 insert into stations (countryCode, id, title, lat, lon) values ('us', '1602', 'Northglenn / 112th Avenue', 39.902677, -104.959583);
 insert into stations (countryCode, id, title, lat, lon) values ('us', '1603', 'Olde Town Arvada', 39.798974, -105.078976);
