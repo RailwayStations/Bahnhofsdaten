@@ -1,0 +1,13 @@
+stop_id,stop_code,stop_name,stop_lat,stop_lon,zone_id,stop_desc,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding,platform_code
+7109,7109,Cotati,38.33095968,-122.6910795,66945,,https://www.sonomamarintrain.org/stations/COT,1,,America/Los_Angeles,1,
+7101,7101,Larkspur,37.94780852,-122.5124853,66946,,https://sonomamarintrain.org/stations/LAR,1,,America/Los_Angeles,1,
+7103,7103,Marin Civic Center,38.00124882,-122.5377642,66946,,https://www.sonomamarintrain.org/stations/MCC,1,,America/Los_Angeles,1,
+7105,7105,Novato Downtown,38.1059839,-122.5644475,66947,,https://www.sonomamarintrain.org/node/57,1,,America/Los_Angeles,1,
+7104,7104,Novato Hamilton,38.0562882,-122.5238668,66947,,https://www.sonomamarintrain.org/stations/HAM,1,,America/Los_Angeles,1,
+7106,7106,Novato San Marin,38.12090369,-122.5660712,66947,,https://www.sonomamarintrain.org/stations/NSM,1,,America/Los_Angeles,1,
+7107,7107,Petaluma Downtown,38.23725105,-122.6348266,66945,"220 Lakeville Street, Petaluma CA.",https://www.sonomamarintrain.org/stations/PET,1,,America/Los_Angeles,1,
+7110,7110,Rohnert Park,38.34710199,-122.7010416,66945,,https://www.sonomamarintrain.org/stations/RPK,1,,America/Los_Angeles,1,
+7102,7102,San Rafael,37.97200217,-122.5226592,66946,,https://www.sonomamarintrain.org/stations/DSR,1,,America/Los_Angeles,1,
+7111,7111,Santa Rosa Downtown,38.43757456,-122.7217602,66948,,https://www.sonomamarintrain.org/stations/SRD,1,,America/Los_Angeles,1,
+7112,7112,Santa Rosa North,38.45522778,-122.736454,66948,,https://www.sonomamarintrain.org/stations/SRN,1,,America/Los_Angeles,1,
+7113,7113,Sonoma County Airport,38.50982041,-122.7840805,66949,,https://www.sonomamarintrain.org/stations/SCA,1,,America/Los_Angeles,1,
