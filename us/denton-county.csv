@@ -1,0 +1,7 @@
+stationId;stop_id;stop_code;platform_code;stop_name;stop_desc;stop_lat;stop_lon;zone_id;stop_url;location_type;parent_station;stop_timezone;position;direction;wheelchair_boarding;tts_stop_name
+1693;2387287;;;Downtown Denton Transit Center;;33.21338667;-97.12613555;;;1;;America/Chicago;;;0;
+1694;839272;770393;;MedPark;;33.18274509;-97.09184368;;;0;;America/Chicago;;;0;
+1695;839273;770394;;Highland Village/Lewisville Lake;;33.08328071;-97.02592837;;;0;;America/Chicago;;;0;
+1696;839274;770395;;Old Town;;33.047244;-96.986315;;;0;;America/Chicago;;;0;
+1697;839275;770396;;Hebron;;33.010121;-96.958401;;;0;;America/Chicago;;;0;
+1698;839276;770397;;Trinity Mills;;32.980877;-96.926476;;;0;;America/Chicago;;;0;
