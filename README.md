@@ -1,0 +1,56 @@
+# Bahnhofsdaten
+
+A collection of country data for https://map.railway-stations.org
+
+## Add a new country
+
+Example for country "Bosnia and Herzegovina".
+
+### Insert a new entry in the countries table:
+
+```sql
+INSERT INTO countries (id,name,timetableUrlTemplate,email,twitterTags,overrideLicense,active) VALUES
+	 ('ba','Bosnia and Herzegovina',NULL,'info@railway-stations.org','@Bahnhofsoma, #dbHackathon, #dbOpendata, #Bahnhofsfoto, @khgdrn','CC_BY_NC_40_INT',1);
+
+```
+
+### Extract railway stations from OpenStreetmap
+
+You can extract railway stations from OpenStreetmap via https://overpass-turbo.eu/
+
+Use a query like this and change the two-letter country code for the `area` function:
+
+```
+[out:xml];
+( area["ISO3166-1"="BA"];)->.boundaryarea;(
+  node["railway"="station"](area.boundaryarea);
+);
+// print results
+out meta;/*fixed by auto repair*/
+>;
+out meta qt;/*fixed by auto repair*/
+
+{{style:
+node[railway=station]{ 
+  text : name;
+  color: blue;
+  fill-color:blue;
+  fill-opacity:1.0;
+}
+}}
+```
+
+![Overpass Query](overpass-query.png)
+
+### Export the result as geojson
+
+![Overpass Export](overpass-export.png)
+
+### Convert geojson to sql
+
+```bash
+cat BosniaHerzegovina.geojson | jq -r '.features | to_entries[] | [.key+1, .value.properties.name, .value.geometry.coordinates[0], .value.geometry.coordinates[1]] | @text "insert into stations (countryCode, id, title, lat, lon) values ('"'"'ba'"'"', '"'"'\(.[0])'"'"', '"'"'\(.[1])'"'"', \(.[3]), \(.[2]));"' > BosniaHerzegovina.sql
+
+```
+
+### Run sql script in database
