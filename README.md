@@ -18,7 +18,7 @@ INSERT INTO countries (id,name,timetableUrlTemplate,email,twitterTags,overrideLi
 
 You can extract railway stations from OpenStreetmap via https://overpass-turbo.eu/
 
-Use a query like this and change the two-letter country code for the `area` function:
+Use a query like this and change the two-letter country code (upper case `BA` in this case) for the `area` function:
 
 ```
 [out:xml];
@@ -48,9 +48,13 @@ node[railway=station]{
 
 ### Convert geojson to sql
 
+Use `jq` to transform the geojson file to an sql script. Change the filenames and the two-letter country code (lower case `ba` in the example) to the appropriet one for the new country.
+
 ```bash
 cat BosniaHerzegovina.geojson | jq -r '.features | to_entries[] | [.key+1, .value.properties.name, .value.geometry.coordinates[0], .value.geometry.coordinates[1]] | @text "insert into stations (countryCode, id, title, lat, lon) values ('"'"'ba'"'"', '"'"'\(.[0])'"'"', '"'"'\(.[1])'"'"', \(.[3]), \(.[2]));"' > BosniaHerzegovina.sql
 
 ```
 
-### Run sql script in database
+Finally run the sql script in database.
+
+If you are an external contributor we are happy to receive Pull Requests with the sql file.
