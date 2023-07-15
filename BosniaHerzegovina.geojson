@@ -1,0 +1,1687 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-07-15T16:36:14Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/82677901",
+        "name": "Blažuj",
+        "railway": "station",
+        "@timestamp": "2019-10-13T11:41:29Z",
+        "@version": "4",
+        "@changeset": "75621393",
+        "@user": "filu",
+        "@uid": "675543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2587001,
+          43.8384649
+        ]
+      },
+      "id": "node/82677901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/312280159",
+        "name": "Mostar",
+        "name:hr": "Mostar",
+        "name:sr": "Мостар",
+        "public_transport": "station",
+        "railway": "station",
+        "wikidata": "Q15206322",
+        "@timestamp": "2022-08-20T17:50:00Z",
+        "@version": "11",
+        "@changeset": "125157130",
+        "@user": "Tralient",
+        "@uid": "13551854"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.813885,
+          43.3489955
+        ]
+      },
+      "id": "node/312280159"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/582753882",
+        "name": "Nemila",
+        "railway": "station",
+        "@timestamp": "2020-03-15T17:49:55Z",
+        "@version": "3",
+        "@changeset": "82223716",
+        "@user": "filu",
+        "@uid": "675543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9083031,
+          44.3257729
+        ]
+      },
+      "id": "node/582753882"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/904629837",
+        "name": "Dobrljin",
+        "railway": "station",
+        "@timestamp": "2020-04-01T14:12:05Z",
+        "@version": "5",
+        "@changeset": "82928220",
+        "@user": "filu",
+        "@uid": "675543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4777692,
+          45.1524478
+        ]
+      },
+      "id": "node/904629837"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/907524376",
+        "name": "Omarska",
+        "name:en": "Omarska",
+        "public_transport": "station",
+        "railway": "station",
+        "@timestamp": "2022-11-09T09:22:50Z",
+        "@version": "7",
+        "@changeset": "128676327",
+        "@user": "woy_cb",
+        "@uid": "284094"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8977961,
+          44.8878361
+        ]
+      },
+      "id": "node/907524376"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/909917229",
+        "name": "Potkozarje",
+        "railway": "station",
+        "@timestamp": "2020-06-26T05:45:04Z",
+        "@version": "3",
+        "@changeset": "87170946",
+        "@user": "filu",
+        "@uid": "675543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.0658421,
+          44.9158901
+        ]
+      },
+      "id": "node/909917229"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/910630074",
+        "name": "Svodna",
+        "name:botanical": "Svodna",
+        "name:sr": "Сводна",
+        "railway": "station",
+        "@timestamp": "2020-04-01T09:39:11Z",
+        "@version": "4",
+        "@changeset": "82914682",
+        "@user": "filu",
+        "@uid": "675543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.553471,
+          45.0294586
+        ]
+      },
+      "id": "node/910630074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/917840934",
+        "gauge:1954-1966-11-05": "760",
+        "name": "Čelebići",
+        "name:hr": "Čelebići",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@timestamp": "2023-04-12T01:49:47Z",
+        "@version": "6",
+        "@changeset": "134795728",
+        "@user": "Hattori_15",
+        "@uid": "17806752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8970388,
+          43.6832687
+        ]
+      },
+      "id": "node/917840934"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/917857695",
+        "name": "Ovčari",
+        "name:hr": "Ovčari",
+        "public_transport": "station",
+        "railway": "station",
+        "@timestamp": "2022-08-24T10:47:06Z",
+        "@version": "3",
+        "@changeset": "125309289",
+        "@user": "Tralient",
+        "@uid": "13551854"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9864535,
+          43.6687797
+        ]
+      },
+      "id": "node/917857695"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/917857714",
+        "gauge:1891-08-01-1966-11-05": "760",
+        "name": "Bradina",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@timestamp": "2023-04-12T06:40:50Z",
+        "@version": "7",
+        "@changeset": "134800820",
+        "@user": "Hattori_15",
+        "@uid": "17806752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0158823,
+          43.7423629
+        ]
+      },
+      "id": "node/917857714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/917857723",
+        "name": "Grad",
+        "public_transport": "station",
+        "railway": "station",
+        "@timestamp": "2022-09-07T11:50:24Z",
+        "@version": "4",
+        "@changeset": "125898362",
+        "@user": "woy_cb",
+        "@uid": "284094"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0050684,
+          43.6796241
+        ]
+      },
+      "id": "node/917857723"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/918408895",
+        "name": "Raštelica",
+        "railway": "station",
+        "@timestamp": "2012-07-03T14:19:38Z",
+        "@version": "2",
+        "@changeset": "12100574",
+        "@user": "filu",
+        "@uid": "675543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0724375,
+          43.7815829
+        ]
+      },
+      "id": "node/918408895"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/918448349",
+        "name": "Pazarić",
+        "public_transport": "station",
+        "railway": "station",
+        "@timestamp": "2022-09-07T12:40:39Z",
+        "@version": "5",
+        "@changeset": "125900491",
+        "@user": "woy_cb",
+        "@uid": "284094"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1519768,
+          43.7897015
+        ]
+      },
+      "id": "node/918448349"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/919084787",
+        "gauge:1954-1966-11-05": "760",
+        "name": "Ostrožac",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@timestamp": "2023-04-12T01:49:47Z",
+        "@version": "4",
+        "@changeset": "134795728",
+        "@user": "Hattori_15",
+        "@uid": "17806752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8219863,
+          43.6875143
+        ]
+      },
+      "id": "node/919084787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/919084910",
+        "name": "Jablanica",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@timestamp": "2021-08-08T12:18:08Z",
+        "@version": "6",
+        "@changeset": "109343550",
+        "@user": "Tavi Alexandre",
+        "@uid": "8818363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7561704,
+          43.6354347
+        ]
+      },
+      "id": "node/919084910"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/919156172",
+        "name": "Grabovica",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@timestamp": "2021-08-08T12:15:32Z",
+        "@version": "9",
+        "@changeset": "109343416",
+        "@user": "Tavi Alexandre",
+        "@uid": "8818363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7167711,
+          43.5734703
+        ]
+      },
+      "id": "node/919156172"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/919157916",
+        "name": "Raška Gora",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@timestamp": "2021-08-08T11:48:32Z",
+        "@version": "8",
+        "@changeset": "109342372",
+        "@user": "Tavi Alexandre",
+        "@uid": "8818363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8535278,
+          43.4346483
+        ]
+      },
+      "id": "node/919157916"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/919157917",
+        "name": "Drežnica",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@timestamp": "2021-08-08T11:57:55Z",
+        "@version": "3",
+        "@changeset": "109342724",
+        "@user": "Tavi Alexandre",
+        "@uid": "8818363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7728378,
+          43.4970166
+        ]
+      },
+      "id": "node/919157917"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/919302859",
+        "gauge:1885-06-14-1966-11-05": "760",
+        "name": "Žitomislići",
+        "public_transport": "station",
+        "railway": "station",
+        "@timestamp": "2023-04-12T00:12:54Z",
+        "@version": "7",
+        "@changeset": "134794303",
+        "@user": "Hattori_15",
+        "@uid": "17806752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7846267,
+          43.2040897
+        ]
+      },
+      "id": "node/919302859"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/925356742",
+        "name": "Čelinac",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@timestamp": "2020-03-28T08:35:44Z",
+        "@version": "5",
+        "@changeset": "82744424",
+        "@user": "filu",
+        "@uid": "675543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.3178213,
+          44.7346652
+        ]
+      },
+      "id": "node/925356742"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/925557718",
+        "name": "Stanari",
+        "name:sr": "Станари",
+        "name:sr-Latn": "Stanari",
+        "public_transport": "station",
+        "railway": "station",
+        "@timestamp": "2022-12-17T16:20:40Z",
+        "@version": "7",
+        "@changeset": "130190703",
+        "@user": "Badojo",
+        "@uid": "8189075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8401053,
+          44.7538639
+        ]
+      },
+      "id": "node/925557718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/925558078",
+        "name": "Руданка",
+        "name:sr": "Руданка",
+        "railway": "station",
+        "@timestamp": "2020-09-25T18:57:35Z",
+        "@version": "7",
+        "@changeset": "91527556",
+        "@user": "skrebic",
+        "@uid": "5076722"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0357539,
+          44.7563599
+        ]
+      },
+      "id": "node/925558078"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/942406094",
+        "name": "Sarajevo",
+        "name:ar": "سراييفو",
+        "name:bs": "Sarajevo",
+        "name:en": "Sarajevo",
+        "name:fa": "سارایوو",
+        "name:hr": "Sarajevo",
+        "name:sr": "Сарајево",
+        "name:sr-Latn": "Sarajevo",
+        "name:ug": "سارايېۋو",
+        "name:ur": "سرائیوو",
+        "note": "List of National Monuments of Bosnia and Herzegovina",
+        "operator": "Željeznice FBiH",
+        "public_transport": "station",
+        "railway": "station",
+        "wikidata": "Q9333848",
+        "wikipedia": "bs:Glavna željeznička stanica u Sarajevu",
+        "@timestamp": "2022-11-19T14:43:39Z",
+        "@version": "11",
+        "@changeset": "129126829",
+        "@user": "Deamorina",
+        "@uid": "17729299"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3989497,
+          43.8604591
+        ]
+      },
+      "id": "node/942406094"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1036031961",
+        "gauge:1879-04-22-1947-11-16": "760",
+        "name": "Žepče",
+        "public_transport": "station",
+        "railway": "station",
+        "@timestamp": "2023-04-08T17:25:47Z",
+        "@version": "8",
+        "@changeset": "134661826",
+        "@user": "Hattori_15",
+        "@uid": "17806752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.029533,
+          44.4261837
+        ]
+      },
+      "id": "node/1036031961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1349261380",
+        "name": "Bosanska Krupa",
+        "railway": "station",
+        "@timestamp": "2020-04-02T08:18:50Z",
+        "@version": "8",
+        "@changeset": "82964301",
+        "@user": "filu",
+        "@uid": "675543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1494287,
+          44.8862347
+        ]
+      },
+      "id": "node/1349261380"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1388648409",
+        "name": "Sočkovac",
+        "name:bs": "Sočkovac",
+        "name:bs-Cyrl": "Сочковац",
+        "name:hr": "Sočkovac",
+        "name:sr": "Сочковац",
+        "name:sr-Latn": "Sočkovac",
+        "operator": "Željeznice Republike Srpske",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@timestamp": "2023-01-23T19:14:48Z",
+        "@version": "4",
+        "@changeset": "131621570",
+        "@user": "edintz",
+        "@uid": "16466474"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.31164,
+          44.6700265
+        ]
+      },
+      "id": "node/1388648409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1596613128",
+        "gauge:1879-04-22-1947-11-16": "760",
+        "name": "Zavidovići",
+        "public_transport": "station",
+        "railway": "station",
+        "@timestamp": "2023-04-09T02:14:56Z",
+        "@version": "7",
+        "@changeset": "134672372",
+        "@user": "Hattori_15",
+        "@uid": "17806752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1457356,
+          44.4451361
+        ]
+      },
+      "id": "node/1596613128"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1744095127",
+        "gauge:1885-06-14-1966-11-05": "760",
+        "name": "Šurmanci",
+        "public_transport": "station",
+        "railway": "station",
+        "wheelchair": "no",
+        "@timestamp": "2023-04-12T00:12:54Z",
+        "@version": "9",
+        "@changeset": "134794303",
+        "@user": "Hattori_15",
+        "@uid": "17806752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7518434,
+          43.1591585
+        ]
+      },
+      "id": "node/1744095127"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1744115922",
+        "gauge:1882-10-04-1966": "760",
+        "name": "Kakanj",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@timestamp": "2023-04-19T08:19:31Z",
+        "@version": "4",
+        "@changeset": "135091517",
+        "@user": "Hattori_15",
+        "@uid": "17806752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1057493,
+          44.1206253
+        ]
+      },
+      "id": "node/1744115922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1767527732",
+        "name": "Alipašin most",
+        "railway": "station",
+        "@timestamp": "2012-05-27T12:53:38Z",
+        "@version": "1",
+        "@changeset": "11715455",
+        "@user": "filu",
+        "@uid": "675543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3463968,
+          43.8517503
+        ]
+      },
+      "id": "node/1767527732"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1778544206",
+        "name": "Dragalovci",
+        "name:sr": "Драгаловци",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@timestamp": "2022-07-04T12:07:23Z",
+        "@version": "5",
+        "@changeset": "123189062",
+        "@user": "Стефан Рудић",
+        "@uid": "11777082"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.7776939,
+          44.7662167
+        ]
+      },
+      "id": "node/1778544206"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1811353348",
+        "gauge:1882-10-04-1975-06-01": "760",
+        "name": "Lašva",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@timestamp": "2023-04-18T05:17:52Z",
+        "@version": "3",
+        "@changeset": "135040708",
+        "@user": "Hattori_15",
+        "@uid": "17806752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9422613,
+          44.1287636
+        ]
+      },
+      "id": "node/1811353348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1821093306",
+        "name": "Bosanska Otoka",
+        "public_transport": "station",
+        "railway": "station",
+        "@timestamp": "2021-11-08T20:10:33Z",
+        "@version": "5",
+        "@changeset": "113537041",
+        "@user": "Badojo",
+        "@uid": "8189075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.1839942,
+          44.9582683
+        ]
+      },
+      "id": "node/1821093306"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1821277645",
+        "gauge:1882-10-04-1966": "760",
+        "name": "Dobrinje",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@timestamp": "2023-04-19T10:32:58Z",
+        "@version": "4",
+        "@changeset": "135096594",
+        "@user": "Hattori_15",
+        "@uid": "17806752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1095758,
+          44.0519618
+        ]
+      },
+      "id": "node/1821277645"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1821281154",
+        "addr:city": "Zenica",
+        "addr:housenumber": "60",
+        "addr:postcode": "72000",
+        "addr:street": "Visočka",
+        "name": "Drivuša",
+        "name:sr": "Дривуша",
+        "operator": "JP ŽFBiH d.o.o. Sarajevo",
+        "public_transport": "station",
+        "railway": "station",
+        "@timestamp": "2020-12-30T16:12:13Z",
+        "@version": "5",
+        "@changeset": "96679955",
+        "@user": "Badojo",
+        "@uid": "8189075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.969341,
+          44.1704129
+        ]
+      },
+      "id": "node/1821281154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1821294299",
+        "name": "Globarica",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@timestamp": "2022-10-06T15:33:46Z",
+        "@version": "3",
+        "@changeset": "127108531",
+        "@user": "Pershoo",
+        "@uid": "17339082"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1545834,
+          44.4891358
+        ]
+      },
+      "id": "node/1821294299"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1822758686",
+        "name": "Jelina",
+        "railway": "station",
+        "@timestamp": "2020-03-15T17:45:49Z",
+        "@version": "2",
+        "@changeset": "82223590",
+        "@user": "filu",
+        "@uid": "675543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8793064,
+          44.2665151
+        ]
+      },
+      "id": "node/1822758686"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1822797427",
+        "gauge:1882-10-04-1966": "760",
+        "name": "Modrinje",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@timestamp": "2023-04-18T05:46:35Z",
+        "@version": "4",
+        "@changeset": "135041339",
+        "@user": "Hattori_15",
+        "@uid": "17806752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0198131,
+          44.1315868
+        ]
+      },
+      "id": "node/1822797427"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1824460685",
+        "name": "Blagaj",
+        "railway": "station",
+        "@timestamp": "2020-04-01T10:05:11Z",
+        "@version": "4",
+        "@changeset": "82916061",
+        "@user": "filu",
+        "@uid": "675543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4603195,
+          45.0411259
+        ]
+      },
+      "id": "node/1824460685"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1824477547",
+        "name": "Stanovi",
+        "railway": "station",
+        "@timestamp": "2020-03-25T17:29:06Z",
+        "@version": "3",
+        "@changeset": "82621577",
+        "@user": "filu",
+        "@uid": "675543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9769673,
+          44.7577122
+        ]
+      },
+      "id": "node/1824477547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1827400565",
+        "name": "Ostružnja",
+        "railway": "station",
+        "@timestamp": "2020-03-26T07:34:18Z",
+        "@version": "2",
+        "@changeset": "82646003",
+        "@user": "filu",
+        "@uid": "675543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8892771,
+          44.751428
+        ]
+      },
+      "id": "node/1827400565"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1827407601",
+        "name": "Prisoje",
+        "name:bs": "Prisoje",
+        "name:de": "Prisoje",
+        "name:en": "Prisoje",
+        "name:hr": "Prisoje",
+        "name:sr": "Присоје",
+        "name:sr-Latn": "Prisoje",
+        "public_transport": "station",
+        "railway": "station",
+        "@timestamp": "2022-08-14T15:16:07Z",
+        "@version": "4",
+        "@changeset": "124892025",
+        "@user": "Tralient",
+        "@uid": "13551854"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6733594,
+          44.7492515
+        ]
+      },
+      "id": "node/1827407601"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1827409494",
+        "name": "Piskavica",
+        "railway": "station",
+        "@timestamp": "2020-03-29T13:57:37Z",
+        "@version": "3",
+        "@changeset": "82780051",
+        "@user": "filu",
+        "@uid": "675543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.9733009,
+          44.8690919
+        ]
+      },
+      "id": "node/1827409494"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1827413864",
+        "name": "Ramići",
+        "railway": "station",
+        "@timestamp": "2020-03-29T13:45:40Z",
+        "@version": "2",
+        "@changeset": "82779670",
+        "@user": "filu",
+        "@uid": "675543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.1712679,
+          44.852778
+        ]
+      },
+      "id": "node/1827413864"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1827730339",
+        "name": "Vrbanja",
+        "railway": "station",
+        "@timestamp": "2020-03-28T13:58:13Z",
+        "@version": "4",
+        "@changeset": "82754153",
+        "@user": "filu",
+        "@uid": "675543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2412544,
+          44.7620842
+        ]
+      },
+      "id": "node/1827730339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1845247885",
+        "name": "Štrpci",
+        "name:sr": "Штрпци",
+        "public_transport": "station",
+        "railway": "station",
+        "@timestamp": "2021-09-06T12:58:44Z",
+        "@version": "7",
+        "@changeset": "110803150",
+        "@user": "hanzlan",
+        "@uid": "629849"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.5032474,
+          43.6387265
+        ]
+      },
+      "id": "node/1845247885"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1855392823",
+        "name": "Bihać",
+        "operator": "Željeznice Bosne i Hercegovine",
+        "platforms": "3",
+        "public_transport": "station",
+        "railway": "station",
+        "@timestamp": "2020-10-25T14:45:28Z",
+        "@version": "9",
+        "@changeset": "93018290",
+        "@user": "micha_k",
+        "@uid": "37608"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.8868206,
+          44.8185898
+        ]
+      },
+      "id": "node/1855392823"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2339160771",
+        "name": "Raštani",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@timestamp": "2021-08-08T11:38:16Z",
+        "@version": "3",
+        "@changeset": "109342005",
+        "@user": "Tavi Alexandre",
+        "@uid": "8818363"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8282173,
+          43.3709639
+        ]
+      },
+      "id": "node/2339160771"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4123621409",
+        "name": "Kozarac",
+        "name:sr": "Козарац",
+        "public_transport": "station",
+        "railway": "station",
+        "@timestamp": "2020-04-07T19:35:19Z",
+        "@version": "3",
+        "@changeset": "83215432",
+        "@user": "Badojo",
+        "@uid": "8189075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.8024697,
+          44.9313429
+        ]
+      },
+      "id": "node/4123621409"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6817533734",
+        "gauge:1889-11-10-1966-11-05": "760",
+        "name": "Konjic",
+        "name:hr": "Konjic",
+        "public_transport": "station",
+        "railway": "station",
+        "@timestamp": "2023-04-12T01:49:47Z",
+        "@version": "4",
+        "@changeset": "134795728",
+        "@user": "Hattori_15",
+        "@uid": "17806752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9613545,
+          43.6571492
+        ]
+      },
+      "id": "node/6817533734"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6854746414",
+        "name": "Ravnice",
+        "railway": "station",
+        "@timestamp": "2020-04-01T14:04:02Z",
+        "@version": "2",
+        "@changeset": "82927780",
+        "@user": "filu",
+        "@uid": "675543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.4093068,
+          45.1090923
+        ]
+      },
+      "id": "node/6854746414"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6855508626",
+        "name": "Rajlovac",
+        "railway": "station",
+        "@timestamp": "2020-03-15T16:53:31Z",
+        "@version": "3",
+        "@changeset": "82222172",
+        "@user": "filu",
+        "@uid": "675543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3164282,
+          43.8585865
+        ]
+      },
+      "id": "node/6855508626"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7108932438",
+        "name": "Petrovo Novo",
+        "railway": "station",
+        "@timestamp": "2020-03-15T08:37:49Z",
+        "@version": "2",
+        "@changeset": "82211153",
+        "@user": "filu",
+        "@uid": "675543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.3831809,
+          44.6286099
+        ]
+      },
+      "id": "node/7108932438"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7296231949",
+        "name": "Cazin-Srbljani",
+        "railway": "station",
+        "@timestamp": "2020-03-15T08:17:51Z",
+        "@version": "1",
+        "@changeset": "82210767",
+        "@user": "filu",
+        "@uid": "675543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.9326313,
+          44.8945034
+        ]
+      },
+      "id": "node/7296231949"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7296300124",
+        "gauge:1882-10-04-1966": "760",
+        "name": "Visoko",
+        "name:ru": "Високо",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@timestamp": "2023-04-19T12:04:00Z",
+        "@version": "2",
+        "@changeset": "135099755",
+        "@user": "Hattori_15",
+        "@uid": "17806752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1830058,
+          43.9965051
+        ]
+      },
+      "id": "node/7296300124"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7296312330",
+        "gauge:1882-10-04-1966": "760",
+        "name": "Podlugovi",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@timestamp": "2023-04-19T12:45:59Z",
+        "@version": "2",
+        "@changeset": "135101257",
+        "@user": "Hattori_15",
+        "@uid": "17806752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.2549811,
+          43.9699126
+        ]
+      },
+      "id": "node/7296312330"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7308511683",
+        "gauge:1879-03-16-1947-11-16": "760",
+        "name": "Maglaj",
+        "public_transport": "station",
+        "railway": "station",
+        "@timestamp": "2023-04-09T23:10:18Z",
+        "@version": "3",
+        "@changeset": "134706289",
+        "@user": "Hattori_15",
+        "@uid": "17806752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0930963,
+          44.5466361
+        ]
+      },
+      "id": "node/7308511683"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7323606196",
+        "name": "Srpska Kostajnica",
+        "name:bs": "Srpska Kostajnica",
+        "name:hr": "Srpska Kostajnica",
+        "name:sr": "Српска Костајница",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@timestamp": "2022-09-21T12:36:04Z",
+        "@version": "3",
+        "@changeset": "126463893",
+        "@user": "Badojo",
+        "@uid": "8189075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.0705319,
+          44.7638235
+        ]
+      },
+      "id": "node/7323606196"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7328325029",
+        "name": "Suho Polje",
+        "name:bs": "Suho Polje",
+        "name:bs-Cyrl": "Сухо Поље",
+        "name:hr": "Suho Polje",
+        "name:sr": "Сухо Поље",
+        "name:sr-Latn": "Suho Polje",
+        "operator": "Željeznice Republike Srpske",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@timestamp": "2023-01-23T19:14:48Z",
+        "@version": "2",
+        "@changeset": "131621570",
+        "@user": "edintz",
+        "@uid": "16466474"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.1627758,
+          44.716967
+        ]
+      },
+      "id": "node/7328325029"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7332952328",
+        "name": "Ukrina",
+        "railway": "station",
+        "@timestamp": "2020-03-26T19:22:06Z",
+        "@version": "2",
+        "@changeset": "82679094",
+        "@user": "filu",
+        "@uid": "675543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.5643448,
+          44.7445957
+        ]
+      },
+      "id": "node/7332952328"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7334249323",
+        "name": "Šnjegotina",
+        "railway": "station",
+        "@timestamp": "2020-03-27T07:58:23Z",
+        "@version": "1",
+        "@changeset": "82700359",
+        "@user": "filu",
+        "@uid": "675543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4786976,
+          44.7003787
+        ]
+      },
+      "id": "node/7334249323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7334778150",
+        "name": "Jošavka",
+        "railway": "station",
+        "@timestamp": "2020-03-27T12:13:18Z",
+        "@version": "1",
+        "@changeset": "82713853",
+        "@user": "filu",
+        "@uid": "675543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.4174953,
+          44.7504481
+        ]
+      },
+      "id": "node/7334778150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7340720450",
+        "name": "Banja Luka",
+        "name:bs": "Banja Luka",
+        "name:bs-Cyrl": "Бања Лука",
+        "name:hr": "Banja Luka",
+        "name:sr": "Бања Лука",
+        "name:sr-Latn": "Banja Luka",
+        "operator": "Željeznice Republike Srpske",
+        "public_transport": "station",
+        "railway": "station",
+        "@timestamp": "2023-01-23T19:14:48Z",
+        "@version": "2",
+        "@changeset": "131621570",
+        "@user": "edintz",
+        "@uid": "16466474"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.2127551,
+          44.7887992
+        ]
+      },
+      "id": "node/7340720450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7343113395",
+        "name": "Prijedor",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@timestamp": "2020-03-29T14:10:49Z",
+        "@version": "1",
+        "@changeset": "82780466",
+        "@user": "filu",
+        "@uid": "675543"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.7162329,
+          44.9795957
+        ]
+      },
+      "id": "node/7343113395"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7353803945",
+        "name": "Brezičani",
+        "name:hr": "Brezičani",
+        "name:sr": "Брезичани",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "@timestamp": "2022-07-20T15:01:22Z",
+        "@version": "2",
+        "@changeset": "123855609",
+        "@user": "Tralient",
+        "@uid": "13551854"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.6506941,
+          45.0091419
+        ]
+      },
+      "id": "node/7353803945"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7354176301",
+        "name": "Novi Grad",
+        "name:sr": "Нови Град",
+        "public_transport": "station",
+        "railway": "station",
+        "@timestamp": "2022-01-21T09:57:38Z",
+        "@version": "2",
+        "@changeset": "116422317",
+        "@user": "Badojo",
+        "@uid": "8189075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.3867098,
+          45.0509596
+        ]
+      },
+      "id": "node/7354176301"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10212563520",
+        "name": "Zenica",
+        "name:sr": "Зеница",
+        "operator": "Željeznica Federacije Bosne i Hercegovine",
+        "public_transport": "station",
+        "railway": "station",
+        "train": "yes",
+        "website": "https://www.zfbh.ba",
+        "@timestamp": "2022-11-23T17:53:39Z",
+        "@version": "1",
+        "@changeset": "129292134",
+        "@user": "Badojo",
+        "@uid": "8189075"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.9126234,
+          44.2101873
+        ]
+      },
+      "id": "node/10212563520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10695102997",
+        "gauge:1906-07-04-1974-03-01": "760",
+        "gauge:2006-05-15-": "760",
+        "name": "Dobrun",
+        "name:bs": "Dobrun",
+        "name:en": "Dobrun",
+        "name:sr": "Добрун",
+        "name:sr-Latn": "Dobrun",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position": "285.0",
+        "tourism": "attraction",
+        "train": "yes",
+        "@timestamp": "2023-04-11T10:22:10Z",
+        "@version": "5",
+        "@changeset": "134766950",
+        "@user": "Hattori_15",
+        "@uid": "17806752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.3895634,
+          43.762419
+        ]
+      },
+      "id": "node/10695102997"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10695102999",
+        "gauge:1906-08-01-1974-03-01": "760",
+        "gauge:2005-07-19-": "760",
+        "name": "Vardište",
+        "name:bs": "Vardište",
+        "name:en": "Vardiste",
+        "name:sr": "Вардиште",
+        "name:sr-Latn": "Vardište",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position": "277.6",
+        "tourism": "attraction",
+        "train": "yes",
+        "@timestamp": "2023-04-11T10:22:10Z",
+        "@version": "4",
+        "@changeset": "134766950",
+        "@user": "Hattori_15",
+        "@uid": "17806752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.4565135,
+          43.7599007
+        ]
+      },
+      "id": "node/10695102999"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10736461075",
+        "gauge:1906-07-04-1978-05-28": "760",
+        "gauge:2010-08-28-": "760",
+        "name": "Višegrad",
+        "name:bs": "Višegrad",
+        "name:en": "Visegrad",
+        "name:sr": "Вишеград",
+        "name:sr-Latn": "Višegrad",
+        "public_transport": "station",
+        "railway": "station",
+        "railway:position": "294.9",
+        "tourism": "attraction",
+        "train": "yes",
+        "@timestamp": "2023-04-11T10:22:10Z",
+        "@version": "3",
+        "@changeset": "134766950",
+        "@user": "Hattori_15",
+        "@uid": "17806752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.2961233,
+          43.7806666
+        ]
+      },
+      "id": "node/10736461075"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10778208898",
+        "abandoned:railway": "station",
+        "gauge:1888-08-22-1966-11-05": "760",
+        "name": "[Vojno]",
+        "public_transport": "no",
+        "railway": "station",
+        "railway:position": "124.2",
+        "train": "no",
+        "@timestamp": "2023-04-11T10:49:45Z",
+        "@version": "2",
+        "@changeset": "134767880",
+        "@user": "Hattori_15",
+        "@uid": "17806752"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.8695016,
+          43.4126991
+        ]
+      },
+      "id": "node/10778208898"
+    }
+  ]
+}
