@@ -9,8 +9,8 @@ Example for country "Bosnia and Herzegovina".
 ### Insert a new entry in the countries table:
 
 ```sql
-INSERT INTO countries (id,name,timetableUrlTemplate,email,twitterTags,overrideLicense,active) VALUES
-	 ('ba','Bosnia and Herzegovina',NULL,'info@railway-stations.org','@Bahnhofsoma, #dbHackathon, #dbOpendata, #Bahnhofsfoto, @khgdrn','CC_BY_NC_40_INT',1);
+INSERT INTO countries (id,name,timetableUrlTemplate,email,overrideLicense,active) VALUES
+	 ('ba','Bosnia and Herzegovina',NULL,'info@railway-stations.org','CC_BY_NC_40_INT',1);
 
 ```
 
@@ -52,6 +52,13 @@ Use `jq` to transform the geojson file to an sql script. Change the filenames an
 
 ```bash
 cat BosniaHerzegovina.geojson | jq -r '.features | to_entries[] | [.key+1, .value.properties.name, .value.geometry.coordinates[0], .value.geometry.coordinates[1]] | @text "insert into stations (countryCode, id, title, lat, lon) values ('"'"'ba'"'"', '"'"'\(.[0])'"'"', '"'"'\(.[1])'"'"', \(.[3]), \(.[2]));"' > BosniaHerzegovina.sql
+
+```
+
+For countries with non-latin station names we could check for `int_name` and `name:en` properties and prepend them:
+
+```bash
+cat Ukraine.geojson | jq -r '.features | to_entries[] | [.key+1, if (.value.properties.int_name != null) then .value.properties.int_name + " (" + .value.properties.name + ")" elif (.value.properties.["name:en"] != null) then .value.properties.["name:en"] + " (" + .value.properties.name + ")" else .value.properties.name end, .value.geometry.coordinates[0], .value.geometry.coordinates[1]] | @text "insert into stations (countryCode, id, title, lat, lon) values ('"'"'ua'"'"', '"'"'\(.[0])'"'"', '"'"'\(.[1])'"'"', \(.[3]), \(.[2]));"' > Ukraine.sql
 
 ```
 
