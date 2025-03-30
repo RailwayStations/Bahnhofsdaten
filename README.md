@@ -1,5 +1,7 @@
 # Bahnhofsdaten
 
+**Repository moved to https://codeberg.org/RailwayStations/Bahnhofsdaten**
+
 A collection of country data for https://map.railway-stations.org
 
 ## Add a new country
